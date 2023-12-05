@@ -21,7 +21,7 @@ import time
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
-from pwm_control import PWMControl
+# from pwm_control import PWMControl
 
 
 ''' BLUE LINE DETECTION '''
@@ -185,12 +185,12 @@ def get_steering_angle(frame, lane_lines):
 
 ''' PWM INITIALIZATION '''
 
-pwm = PWMControl()
+#pwm = PWMControl()
 
 
 ''' CAMERA WORK '''
 
-video = cv2.VideoCapture(2)
+video = cv2.VideoCapture(0)
 video.set(cv2.CAP_PROP_FRAME_WIDTH,320)
 video.set(cv2.CAP_PROP_FRAME_HEIGHT,240)
 
@@ -267,10 +267,9 @@ def stop(signum, stackframe):
 
 signal.signal(signal.SIGINT, stop)
 
-pwm.set_throttle_direct(7.9)
+# pwm.set_throttle_direct(7.9)
 
-show_camera = False
-
+show_camera = True 
 
 ''' SETTING P AND D VALUES '''
 
@@ -284,8 +283,8 @@ stop_state = 0
 ''' PLOTTING DATA '''
 
 error_data = []
-steering_pwm_data = []
-throttle_pwm_data = []
+# steering_pwm_data = []
+# throttle_pwm_data = []
 
 proportional_resp_data = []
 derivative_resp_data = []
@@ -295,12 +294,12 @@ derivative_resp_data = []
 
 while not done:
     # PWM control based on stop sign detection
-    if stop_state in {0, 2, 3}:
-        if not show_camera:
-            throttle_pwm_data.append(pwm.set_throttle(500))
-    elif stop_state in {1, 4}:
-        if not show_camera:
-            throttle_pwm_data.append(pwm.set_throttle(0))
+   # if stop_state in {0, 2, 3}:
+#         if not show_camera:
+ #            throttle_pwm_data.append(pwm.set_throttle(500))
+#    elif stop_state in {1, 4}:
+#         if not show_camera:
+  #           throttle_pwm_data.append(pwm.set_throttle(0))
     ret,frame = video.read()
     #frame = cv2.flip(frame,-1)
 
@@ -321,8 +320,8 @@ while not done:
     print(f"{stop_state=}")
     if  stop_state == 0 and red_px > 1800:
         print(f'Stopping! {stop_state}')
-        if not show_camera:
-            pwm.set_throttle(0)
+    #     if not show_camera:
+   #          pwm.set_throttle(0)
         stop_state += 1
         stop_timing = time.time()
     elif stop_state == 1 and time.time() - stop_timing > 2:
@@ -364,7 +363,7 @@ while not done:
     elif turn_amt > 9:
         turn_amt = 9
     # print(f"Turn amt: {turn_amt}")
-    steering_pwm_data.append(pwm.set_steering(turn_amt))
+ #    steering_pwm_data.append(pwm.set_steering(turn_amt))
 
     lastError = error
     # error = abs(deviation)
@@ -411,7 +410,7 @@ while not done:
 ''' SHUTDOWN PROTOCOL '''
 
 video.release()
-pwm.shutdown()
+# pwm.shutdown()
 
 with open("data.py", 'w') as data:
     data.write(f"{error_data=}")
