@@ -4,15 +4,27 @@
 #include <linux/platform_device.h>
 #include <linux/gpio/consumer.h>
 #include <linux/interrupt.h>
-#include <sys/time.h>
-#include <stdio.h>
+#include <linux/timekeeping.h>
+#include <linux/sysfs.h>
 
 #define FILENAME "/dev/encoder_speed"
 
 unsigned int irq_number;
 struct gpio_desc *encoder_desc;
-struct timeval *last_change;
-FILE *speedOut;
+ktime_t last_change;
+s64 speedOut;
+
+/**
+ * @brief Shows the speed in the sysfs file
+ */
+static ssize_t speed_show(struct device *dev, struct device_attribute *attr, char *buf) {
+    return sprintf(buf, "%lld\n", speedOut);
+}
+
+/**
+ * @brief The sysfs attribute
+ */
+static DEVICE_ATTR(speed, 0444, speed_show, NULL);
 
 /**
  * @brief Interrupt service routine is called, when interrupt is triggered
@@ -21,22 +33,18 @@ static irq_handler_t gpiod_irq_handler(unsigned int irq, void *dev_id, struct pt
 	printk("encoder_gpiod_irq: Interrupt was triggered and ISR was called!\n");
 	printk("encoder_gpiod_irq: This means that the encoder triggered\n");
  
-  struct timeval *now;
-  double timeDiff;
+	ktime_t now;
+	ktime_t diff;
+	s64 timeDiff;
+	
+	now = ktime_get_real();
 
-  gettimeofday(now, NULL);
+	diff = ktime_sub(last_change, now);	
+	timeDiff = ktime_to_ns(diff);
 
-  // Calculate the time since the last state change.
-	timeDiff = now->tv_sec + (now->tv_usec/1000000.0);
-	timeDiff -= last_change->tv_sec + (last_change->tv_usec / 1000000.0);
-
-  last_change = now;
+	last_change = now;
   
-  //Write time difference to file
-  freopen(FILENAME, "w", speedOut);
-  fseek(speedOut, 0, SEEK_SET);
-  fprintf(speedOut, "%f\n", timeDiff);
-  fflush(speedOut);
+	speedOut = timeDiff;
 
 	return (irq_handler_t) IRQ_HANDLED; // Return value denoting that the interrupt has been dealt with. 
 }
@@ -46,11 +54,7 @@ static irq_handler_t gpiod_irq_handler(unsigned int irq, void *dev_id, struct pt
 static int setup_encoder(struct platform_device *pdev) {
 	printk("Setting up encoder\n");
 
-  speedOut = fopen(FILENAME, "w");
-  if (speedOut == NULL) {
-        perror("Error opening output file.");
-        return -1;
-  }
+	speedOut = 0.0;
 
 	/* Setup the gpio */
 	if((encoder_desc = devm_gpiod_get(&pdev->dev, "encoder", GPIOD_IN)) == NULL) {
@@ -59,7 +63,7 @@ static int setup_encoder(struct platform_device *pdev) {
 	}
 	
 	//gpiod_set_debounce(encoder_desc 5000);
-  gettimeofday(last_change, NULL);
+	last_change = ktime_get_real();
 
 	/* Setup the interrupt */
 	irq_number = gpiod_to_irq(encoder_desc); 
@@ -113,6 +117,13 @@ static int gpiod_probe(struct platform_device *pdev)
 	if(!gpiods_exist(pdev)) {
 		return -1;
 	}
+	
+	int err;
+	err = sysfs_create_file(&pdev->dev.kobj, &dev_attr_speed.attr);
+	if (err) {
+		printk("Error creating sysfs speed file.");
+		return -1;
+	}	
 
 	// Set up the encoder and error handle
 	if(setup_encoder(pdev) < -1) {
@@ -132,9 +143,8 @@ static int gpiod_remove(struct platform_device *pdev)
 	// Free the encoder
 	remove_encoder(pdev);
 	printk("Removed encoder!\n");
-
-  // Close the output file.
-  fclose(speedOut);
+	
+	sysfs_remove_file(&pdev->dev.kobj, &dev_attr_speed.attr);
 
 	return 0;
 }
