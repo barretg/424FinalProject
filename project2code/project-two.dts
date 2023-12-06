@@ -1,0 +1,17 @@
+/dts-v1/;
+/plugin/;
+
+/ {
+    fragment@0 {
+        target-path="/";
+        __overlay__ {
+            project-two {
+                compatible = "two-compatible";
+                led-gpios = <&gpio 5 0 >;
+				button-gpios = <&gpio 6 0 >;
+            };
+        };
+    };
+
+};
+
