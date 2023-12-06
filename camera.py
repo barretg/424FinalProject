@@ -37,7 +37,7 @@ def detect_edges(frame):
     
     # detect edges
     edges = cv2.Canny(mask, 50, 100)
-    #cv2.imshow("edges",edges)
+    cv2.imshow("edges",edges)
     
     return edges
 
@@ -56,7 +56,7 @@ def region_of_interest(edges):
     cv2.fillPoly(mask, polygon, 255)
     
     cropped_edges = cv2.bitwise_and(edges, mask)
-    # cv2.imshow("roi",cropped_edges)
+#    cv2.imshow("roi",cropped_edges)
     
     return cropped_edges
 
@@ -205,14 +205,18 @@ lastError = 0
 
 
 ''' STOP SIGN DETECTION '''
-
+# currently for [145, 135, 140] - [175, 150, 200]
+# background redpx values could be <1000
+# detection could be between 1000-25000
 def check_for_stop_sign(frame):
-
+    
     # Range of red in HSV
-    left_lower_red = np.array([0,40,100], dtype="uint8")
-    left_upper_red = np.array([25,130,200], dtype="uint8")
-    right_lower_red = np.array([150, 40, 100], dtype="uint8")
-    right_upper_red = np.array([200, 130, 200], dtype="uint8")
+    left_lower_red = np.array([145, 135, 140], dtype="uint8")
+    left_upper_red = np.array([175, 150, 200], dtype="uint8")
+    right_lower_red = np.array([150, 145, 160], dtype="uint8")
+    right_upper_red = np.array([170, 150, 180], dtype="uint8")
+    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+
 
     # Right orientation for HSV function
     left_lower_red = np.flip(left_lower_red)
@@ -234,7 +238,7 @@ def check_for_stop_sign(frame):
     '''
 
     # TESTING: 
-    # center = frame[:, :, :]
+    center = frame[:, :, :]
     # center[:110, :, :] = 0
     # center[130:, :, :] = 0
     # center[:, :110, :] = 0
@@ -254,7 +258,7 @@ def check_for_stop_sign(frame):
     # num_red_px = cv2.countNonZero(mask)
     # cv2.imshow("Mask", mask)
     # cv2.imshow("Mask", cv2.bitwise_and(frame, frame, mask=mask))
-
+    # cv2.imshow("mask", mask)
     return num_red_px
 
 # Set up signal handler so ctrl+c triggers the handler
@@ -315,6 +319,7 @@ while not done:
         cv2.imshow("heading line",heading_image)
 
     # Stop sign detection (x2)
+    # FOR 2023 GROUP PURPOSES: IT STARTS TO SEE IT AROUND ~2000-3000 and it sees a lot of it at ~30000
     red_px = check_for_stop_sign(frame)
     print(f"{red_px=}")
     print(f"{stop_state=}")
