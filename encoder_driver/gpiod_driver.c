@@ -4,10 +4,15 @@
 #include <linux/platform_device.h>
 #include <linux/gpio/consumer.h>
 #include <linux/interrupt.h>
+#include <sys/time.h>
+#include <stdio.h>
+
+#define FILENAME "/dev/encoder_speed"
 
 unsigned int irq_number;
 struct gpio_desc *encoder_desc;
-int speed = 0;
+struct timeval *last_change;
+FILE *speedOut;
 
 /**
  * @brief Interrupt service routine is called, when interrupt is triggered
@@ -15,10 +20,23 @@ int speed = 0;
 static irq_handler_t gpiod_irq_handler(unsigned int irq, void *dev_id, struct pt_regs *regs) {
 	printk("encoder_gpiod_irq: Interrupt was triggered and ISR was called!\n");
 	printk("encoder_gpiod_irq: This means that the encoder triggered\n");
+ 
+  struct timeval *now;
+  double timeDiff;
 
+  gettimeofday(now, NULL);
 
-  //TODO: make this measure speed and store that output in a file.
+  // Calculate the time since the last state change.
+	timeDiff = now->tv_sec + (now->tv_usec/1000000.0);
+	timeDiff -= last_change->tv_sec + (last_change->tv_usec / 1000000.0);
+
+  last_change = now;
   
+  //Write time difference to file
+  freopen(FILENAME, "w", speedOut);
+  fseek(speedOut, 0, SEEK_SET);
+  fprintf(speedOut, "%f\n", timeDiff);
+  fflush(speedOut);
 
 	return (irq_handler_t) IRQ_HANDLED; // Return value denoting that the interrupt has been dealt with. 
 }
@@ -28,6 +46,12 @@ static irq_handler_t gpiod_irq_handler(unsigned int irq, void *dev_id, struct pt
 static int setup_encoder(struct platform_device *pdev) {
 	printk("Setting up encoder\n");
 
+  speedOut = fopen(FILENAME, "w");
+  if (speedOut == NULL) {
+        perror("Error opening output file.");
+        return -1;
+  }
+
 	/* Setup the gpio */
 	if((encoder_desc = devm_gpiod_get(&pdev->dev, "encoder", GPIOD_IN)) == NULL) {
 		printk("Error occurred setting up encoder! Aborting...\n");
@@ -35,6 +59,7 @@ static int setup_encoder(struct platform_device *pdev) {
 	}
 	
 	//gpiod_set_debounce(encoder_desc 5000);
+  gettimeofday(last_change, NULL);
 
 	/* Setup the interrupt */
 	irq_number = gpiod_to_irq(encoder_desc); 
@@ -106,8 +131,10 @@ static int gpiod_remove(struct platform_device *pdev)
 {
 	// Free the encoder
 	remove_encoder(pdev);
-
 	printk("Removed encoder!\n");
+
+  // Close the output file.
+  fclose(speedOut);
 
 	return 0;
 }
@@ -143,4 +170,4 @@ module_platform_driver(gpio_encoder_driver);
 MODULE_DESCRIPTION("Comp 424 Project 2");
 MODULE_AUTHOR("Barret Glass (bmg7)");
 MODULE_LICENSE("GPL v2");
-MODULE_ALIAS("platform:project-two");
+MODULE_ALIAS("platform:final-project");

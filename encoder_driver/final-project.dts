@@ -5,10 +5,9 @@
     fragment@0 {
         target-path="/";
         __overlay__ {
-            project-two {
+            final-project {
                 compatible = "two-compatible";
-                led-gpios = <&gpio 5 0 >;
-				button-gpios = <&gpio 6 0 >;
+				        encoder-gpios = <&gpio 24 0 >;
             };
         };
     };
