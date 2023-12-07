@@ -29,6 +29,8 @@ from pwm_control import PWMControl
 ''' BLUE LINE DETECTION '''
 
 def detect_edges(frame):
+
+
     # filter for blue lane lines
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
     #cv2.imshow("HSV",hsv)
@@ -353,18 +355,26 @@ while not done:
 
 
     ''' DETERMINE TURN AMOUNT (WITH PWM CONTROL) '''
-    turn_amt: int = base_turn + proportional + derivative
+    turn_amt = base_turn + proportional + derivative
     print(f"Steering angle: {steering_angle}")
     print(f"Turn amt: {turn_amt}")
 
-    if turn_amt < 6:
-        turn_amt = int(65535 / 2.5)
-    elif turn_amt > 9:
+#max((7-turn_amt)/7.0, 1) * 
+    # lower voltage is more left
+    # higher voltage is more right
+    if turn_amt < 7:
+        # right
         turn_amt = int(65535 / 1.5)
-    
+    elif turn_amt < 8:
+        # neutral
+        turn_amt = int(65535 / 2)
+    else:
+        # left
+        turn_amt = int(65535 / 2.5)
+    turn_amt = int(turn_amt)
 
-    #print(f"Turn amt: {turn_amt}")
-    #steering_pwm_data.append(pwm.set_steering(turn_amt))
+    print(f"Adjusted turn: {turn_amt}")
+    steering_pwm_data.append(pwm.set_steering(turn_amt))
 
     lastError = error
     lastTime = time.time()
