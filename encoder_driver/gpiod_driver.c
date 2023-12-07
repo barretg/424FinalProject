@@ -13,12 +13,17 @@ unsigned int irq_number;
 struct gpio_desc *encoder_desc;
 ktime_t last_change;
 s64 speedOut;
+int stopped;
 
 /**
  * @brief Shows the speed in the sysfs file
  */
 static ssize_t speed_show(struct device *dev, struct device_attribute *attr, char *buf) {
-    return sprintf(buf, "%lld\n", speedOut);
+	if(stopped) {
+		return sprintf(buf, "%d\n", 0);
+	}
+	stopped = 1;
+	return sprintf(buf, "%lld\n", speedOut);
 }
 
 /**
@@ -39,12 +44,13 @@ static irq_handler_t gpiod_irq_handler(unsigned int irq, void *dev_id, struct pt
 	
 	now = ktime_get_real();
 
-	diff = ktime_sub(last_change, now);	
+	diff = ktime_sub(now, last_change);	
 	timeDiff = ktime_to_ns(diff);
 
 	last_change = now;
   
 	speedOut = timeDiff;
+	stopped = 0;
 
 	return (irq_handler_t) IRQ_HANDLED; // Return value denoting that the interrupt has been dealt with. 
 }
@@ -64,6 +70,7 @@ static int setup_encoder(struct platform_device *pdev) {
 	
 	//gpiod_set_debounce(encoder_desc 5000);
 	last_change = ktime_get_real();
+	stopped = 1;
 
 	/* Setup the interrupt */
 	irq_number = gpiod_to_irq(encoder_desc); 

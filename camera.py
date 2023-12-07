@@ -21,6 +21,8 @@ import time
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
+from pwm_control import PWMControl
+
 # from pwm_control import PWMControl
 
 
@@ -30,7 +32,7 @@ def detect_edges(frame):
     # filter for blue lane lines
     hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
     #cv2.imshow("HSV",hsv)
-    lower_blue = np.array([90, 120, 0], dtype = "uint8")
+    lower_blue = np.array([70, 80, 0], dtype = "uint8")
     upper_blue = np.array([150, 255, 255], dtype="uint8")
     mask = cv2.inRange(hsv,lower_blue,upper_blue)
     #cv2.imshow("mask",mask)
@@ -183,26 +185,6 @@ def get_steering_angle(frame, lane_lines):
     return steering_angle
 
 
-''' PWM INITIALIZATION '''
-
-#pwm = PWMControl()
-
-
-''' CAMERA WORK '''
-
-video = cv2.VideoCapture(0)
-video.set(cv2.CAP_PROP_FRAME_WIDTH,320)
-video.set(cv2.CAP_PROP_FRAME_HEIGHT,240)
-
-time.sleep(2)
-
-
-''' CONSTANTS (for PD algorithm) '''
-
-speed = 8 
-lastTime = 0
-lastError = 0
-
 
 ''' STOP SIGN DETECTION '''
 # currently for [145, 135, 140] - [175, 150, 200]
@@ -261,9 +243,37 @@ def check_for_stop_sign(frame):
     # cv2.imshow("mask", mask)
     return num_red_px
 
+
+
+
+''' CAMERA WORK '''
+
+video = cv2.VideoCapture(0)
+video.set(cv2.CAP_PROP_FRAME_WIDTH,320)
+video.set(cv2.CAP_PROP_FRAME_HEIGHT,240)
+
+time.sleep(2)
+
+
+''' CONSTANTS (for PD algorithm) '''
+
+speed = 8 
+lastTime = 0
+lastError = 0
+
+
+pwm = PWMControl()
+
+
+''' BEGIN MAIN CODE '''
+
 # Set up signal handler so ctrl+c triggers the handler
 # This means the shutdown code will actually run
 done = False
+
+# TODO: set initial speed
+# pwm.set_throttle(int(65535 / 1.9))
+
 
 def stop(signum, stackframe):
     global done
@@ -271,9 +281,9 @@ def stop(signum, stackframe):
 
 signal.signal(signal.SIGINT, stop)
 
-# pwm.set_throttle_direct(7.9)
-
 show_camera = True 
+
+
 
 ''' SETTING P AND D VALUES '''
 
@@ -284,28 +294,23 @@ stop_timing = 0
 stop_state = 0
 
 
+
+
 ''' PLOTTING DATA '''
 
 error_data = []
-# steering_pwm_data = []
-# throttle_pwm_data = []
-
+steering_pwm_data = []
+throttle_pwm_data = []
 proportional_resp_data = []
 derivative_resp_data = []
 
 
+
 ''' MAIN FUNCTION '''
+num_stopped = 0
 
 while not done:
-    # PWM control based on stop sign detection
-   # if stop_state in {0, 2, 3}:
-#         if not show_camera:
- #            throttle_pwm_data.append(pwm.set_throttle(500))
-#    elif stop_state in {1, 4}:
-#         if not show_camera:
-  #           throttle_pwm_data.append(pwm.set_throttle(0))
     ret,frame = video.read()
-    #frame = cv2.flip(frame,-1)
 
     # Detect lanes
     edges = detect_edges(frame)
@@ -315,28 +320,21 @@ while not done:
     lane_lines_image = display_lines(frame,lane_lines)
     steering_angle = get_steering_angle(frame, lane_lines)
     heading_image = display_heading_line(lane_lines_image,steering_angle)
+
     if show_camera:
         cv2.imshow("heading line",heading_image)
 
     # Stop sign detection (x2)
-    # FOR 2023 GROUP PURPOSES: IT STARTS TO SEE IT AROUND ~2000-3000 and it sees a lot of it at ~30000
     red_px = check_for_stop_sign(frame)
     print(f"{red_px=}")
     print(f"{stop_state=}")
-    if  stop_state == 0 and red_px > 1800:
-        print(f'Stopping! {stop_state}')
-    #     if not show_camera:
-   #          pwm.set_throttle(0)
-        stop_state += 1
-        stop_timing = time.time()
-    elif stop_state == 1 and time.time() - stop_timing > 2:
-        stop_state += 1
-        stop_timing = time.time()
-    elif stop_state == 2 and red_px < 600:
-        stop_state += 1
-        stop_timing = time.time()
-    elif stop_state == 3 and red_px > 3600:
-        stop_state += 1
+
+    # TODO: adjust values of picture detection
+    # Need this to stop twice
+    if red_px > 20000:
+        num_stopped += 1
+        print(f'Stopping! {num_stopped}')
+        break
 
 
     ''' CALCULATE DERIVATIVE FROM PD ALGORITHM '''
@@ -354,58 +352,22 @@ while not done:
     derivative_resp_data.append(derivative)
 
 
-    ''' FOR PLOTTING PURPOSES '''
-    # p_vals.append(proportional)
-    # d_vals.append(derivative)
-    # err_vals.append(error)
-
-
     ''' DETERMINE TURN AMOUNT (WITH PWM CONTROL) '''
-    turn_amt = base_turn + proportional + derivative
+    turn_amt: int = base_turn + proportional + derivative
+    print(f"Steering angle: {steering_angle}")
+    print(f"Turn amt: {turn_amt}")
 
     if turn_amt < 6:
-        turn_amt = 6
+        turn_amt = int(65535 / 2.5)
     elif turn_amt > 9:
-        turn_amt = 9
-    # print(f"Turn amt: {turn_amt}")
- #    steering_pwm_data.append(pwm.set_steering(turn_amt))
+        turn_amt = int(65535 / 1.5)
+    
+
+    #print(f"Turn amt: {turn_amt}")
+    #steering_pwm_data.append(pwm.set_steering(turn_amt))
 
     lastError = error
-    # error = abs(deviation)
-
-
-    ''' FOR TESTING PURPOSES'''
-    # print("Stop detected is: ",check_for_stop_sign(frame))
-    # if deviation < 5 and deviation > -5:
-    #     deviation = 0
-    #     error = 0
-    #     #this state should never happen
-
-
-
-    # elif deviation > 5: # right turn
-    #     pwm.set_steering(6.75)
-    #     print("turn right")
-    #     #put code to turn right 
-
-
-    # elif deviation < -5: #left turn
-    #     pwm.set_steering(8.25)
-    #     print("turn left")
-    #      #put code to turn left 
-
-
-    # derivative = kd * (error - lastError) / dt
-    # proportional = kp * error
-    # PD = int(speed + derivative + proportional)
-    # spd = abs(PD)
-
-
-    # if spd > 25:
-    #     spd = 25
-
     lastTime = time.time()
-
 
     key = cv2.waitKey(1)
     if key == 27:
@@ -415,7 +377,7 @@ while not done:
 ''' SHUTDOWN PROTOCOL '''
 
 video.release()
-# pwm.shutdown()
+pwm.shutdown()
 
 with open("data.py", 'w') as data:
     data.write(f"{error_data=}")
