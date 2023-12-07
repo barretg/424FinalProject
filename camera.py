@@ -272,7 +272,7 @@ pwm = PWMControl()
 done = False
 
 # TODO: set initial speed
-# pwm.set_throttle(int(65535 / 1.9))
+pwm.set_throttle(int(65535 / 1.9))
 
 
 def stop(signum, stackframe):
@@ -336,7 +336,26 @@ while not done:
         print(f'Stopping! {num_stopped}')
         break
 
+    speed: int
+    try:
+        with open("speed", 'r') as file:
+            speed = int(file.read().strip())
+    except IOError as e:
+        print(f"Error reading speed file! Throttle disabled: {e}")
+        pwm.set_throttle(int(65535 / 2))
+    except ValueError as e:
+        print(f"File does not contain a valid number! Throttle disabled: {e}")
+        pwm.set_throttle(int(65535 / 2))
 
+    # TODO: tweak this to desired speed:
+    speed_threshold = 7000  
+
+    if speed > speed_threshold:
+        pwm.set_throttle(int(65535 / 2))
+    elif speed < speed_threshold - 2000:
+        pwm.set_throttle(int(65535 / 1.9))
+
+    
     ''' CALCULATE DERIVATIVE FROM PD ALGORITHM '''
     now = time.time()
     dt = now - lastTime
