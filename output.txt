@@ -1,0 +1,4372 @@
+red_px=1565
+stop_state=0
+Steering angle: 122
+Turn amt: 1.0999999996239718
+Adjusted turn: 46810
+red_px=1306
+stop_state=0
+Steering angle: 121
+Turn amt: 1.6270106500756263
+Adjusted turn: 46810
+red_px=1526
+stop_state=0
+Steering angle: 121
+Turn amt: 1.2999999999999998
+Adjusted turn: 46810
+red_px=1632
+stop_state=0
+Steering angle: 122
+Turn amt: 0.5258074938053577
+Adjusted turn: 46810
+red_px=1641
+stop_state=0
+Steering angle: 122
+Turn amt: 1.0999999999999996
+Adjusted turn: 46810
+red_px=1313
+stop_state=0
+Steering angle: 120
+Turn amt: 3.2615354570462616
+Adjusted turn: 46810
+red_px=1424
+stop_state=0
+Steering angle: 121
+Turn amt: 0.5524588294004417
+Adjusted turn: 46810
+red_px=1590
+stop_state=0
+Steering angle: 122
+Turn amt: 0.2546554069714707
+Adjusted turn: 46810
+red_px=1064
+stop_state=0
+Steering angle: 122
+Turn amt: 1.0999999999999996
+Adjusted turn: 46810
+red_px=1387
+stop_state=0
+Steering angle: 120
+Turn amt: 3.23657409611742
+Adjusted turn: 46810
+red_px=1294
+stop_state=0
+Steering angle: 121
+Turn amt: 0.3606787973797656
+Adjusted turn: 46810
+red_px=1557
+stop_state=0
+Steering angle: 120
+Turn amt: 2.4708475203981255
+Adjusted turn: 46810
+red_px=1575
+stop_state=0
+Steering angle: 120
+Turn amt: 1.5
+Adjusted turn: 46810
+red_px=1617
+stop_state=0
+Steering angle: 120
+Turn amt: 1.5
+Adjusted turn: 46810
+red_px=1301
+stop_state=0
+Steering angle: 120
+Turn amt: 1.5
+Adjusted turn: 46810
+red_px=1065
+stop_state=0
+Steering angle: 121
+Turn amt: 0.4525374551699749
+Adjusted turn: 46810
+red_px=1247
+stop_state=0
+Steering angle: 120
+Turn amt: 1.977069997042699
+Adjusted turn: 46810
+red_px=1486
+stop_state=0
+Steering angle: 120
+Turn amt: 1.5
+Adjusted turn: 46810
+red_px=1445
+stop_state=0
+Steering angle: 118
+Turn amt: 3.2159839357429716
+Adjusted turn: 46810
+red_px=1644
+stop_state=0
+Steering angle: 118
+Turn amt: 1.8999999999999995
+Adjusted turn: 46810
+red_px=1408
+stop_state=0
+Steering angle: 120
+Turn amt: 1.3471693304122467
+Adjusted turn: 46810
+red_px=1147
+stop_state=0
+Steering angle: 119
+Turn amt: 2.6182127454629036
+Adjusted turn: 46810
+red_px=1488
+stop_state=0
+Steering angle: 117
+Turn amt: 3.9257934486886494
+Adjusted turn: 46810
+red_px=1086
+stop_state=0
+Steering angle: 117
+Turn amt: 2.0999999999999996
+Adjusted turn: 46810
+red_px=1089
+stop_state=0
+Steering angle: 117
+Turn amt: 2.0999999999999996
+Adjusted turn: 46810
+red_px=1182
+stop_state=0
+Steering angle: 117
+Turn amt: 2.0999999999999996
+Adjusted turn: 46810
+red_px=560
+stop_state=0
+Steering angle: 118
+Turn amt: 0.9031007641389466
+Adjusted turn: 46810
+red_px=1426
+stop_state=0
+Steering angle: 116
+Turn amt: 4.245906423252685
+Adjusted turn: 46810
+red_px=1227
+stop_state=0
+Steering angle: 123
+Turn amt: -5.438610736298968
+Adjusted turn: 46810
+red_px=1048
+stop_state=0
+Steering angle: 118
+Turn amt: 5.10053719954216
+Adjusted turn: 46810
+red_px=912
+stop_state=0
+Steering angle: 113
+Turn amt: 5.952223143984049
+Adjusted turn: 46810
+red_px=1216
+stop_state=0
+Steering angle: 115
+Turn amt: 1.3410483414155647
+Adjusted turn: 46810
+red_px=1160
+stop_state=0
+Steering angle: 115
+Turn amt: 2.5
+Adjusted turn: 46810
+red_px=1084
+stop_state=0
+Steering angle: 113
+Turn amt: 3.9617550343640433
+Adjusted turn: 46810
+red_px=1164
+stop_state=0
+Steering angle: 113
+Turn amt: 2.8999999999999995
+Adjusted turn: 46810
+red_px=1379
+stop_state=0
+Steering angle: 108
+Turn amt: 7.037711148016818
+Adjusted turn: 43690
+red_px=1512
+stop_state=0
+Steering angle: 90
+Turn amt: 14.684214372716202
+Adjusted turn: 23405
+red_px=1182
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1672
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1610
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1421
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1606
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1548
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1328
+stop_state=0
+Steering angle: 135
+Turn amt: -30.525432512648596
+Adjusted turn: 46810
+red_px=879
+stop_state=0
+Steering angle: 90
+Turn amt: 32.23267246293251
+Adjusted turn: 23405
+red_px=1750
+stop_state=0
+Steering angle: 135
+Turn amt: -3.654828375730169
+Adjusted turn: 46810
+red_px=1918
+stop_state=0
+Steering angle: 90
+Turn amt: 48.02337122797978
+Adjusted turn: 23405
+red_px=1108
+stop_state=0
+Steering angle: 135
+Turn amt: -44.9547836397334
+Adjusted turn: 46810
+red_px=1387
+stop_state=0
+Steering angle: 90
+Turn amt: 51.30016708437762
+Adjusted turn: 23405
+red_px=1207
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1390
+stop_state=0
+Steering angle: 136
+Turn amt: -33.520623093035155
+Adjusted turn: 46810
+red_px=1671
+stop_state=0
+Steering angle: 136
+Turn amt: -1.700000000000001
+Adjusted turn: 46810
+red_px=1738
+stop_state=0
+Steering angle: 135
+Turn amt: -0.9546477701209205
+Adjusted turn: 46810
+red_px=2119
+stop_state=0
+Steering angle: 135
+Turn amt: -1.5
+Adjusted turn: 46810
+red_px=1808
+stop_state=0
+Steering angle: 90
+Turn amt: 52.74003307726418
+Adjusted turn: 23405
+red_px=2454
+stop_state=0
+Steering angle: 133
+Turn amt: -45.162658832439575
+Adjusted turn: 46810
+red_px=1709
+stop_state=0
+Steering angle: 134
+Turn amt: -1.9356547041707088
+Adjusted turn: 46810
+red_px=537
+stop_state=0
+Steering angle: 133
+Turn amt: -0.42577215515439837
+Adjusted turn: 46810
+red_px=816
+stop_state=0
+Steering angle: 90
+Turn amt: 30.959143996201902
+Adjusted turn: 23405
+red_px=839
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=728
+stop_state=0
+Steering angle: 135
+Turn amt: -26.296684030400773
+Adjusted turn: 46810
+red_px=1101
+stop_state=0
+Steering angle: 132
+Turn amt: 1.039203846687318
+Adjusted turn: 46810
+red_px=633
+stop_state=0
+Steering angle: 134
+Turn amt: -2.499272025447658
+Adjusted turn: 46810
+red_px=683
+stop_state=0
+Steering angle: 133
+Turn amt: -0.5220214004699004
+Adjusted turn: 46810
+red_px=963
+stop_state=0
+Steering angle: 133
+Turn amt: -1.0999999999999996
+Adjusted turn: 46810
+red_px=1460
+stop_state=0
+Steering angle: 133
+Turn amt: -1.0999999999999996
+Adjusted turn: 46810
+red_px=697
+stop_state=0
+Steering angle: 133
+Turn amt: -1.0999999999999996
+Adjusted turn: 46810
+red_px=1152
+stop_state=0
+Steering angle: 131
+Turn amt: 0.6221858302466696
+Adjusted turn: 46810
+red_px=1252
+stop_state=0
+Steering angle: 131
+Turn amt: -0.7000000000000011
+Adjusted turn: 46810
+red_px=1097
+stop_state=0
+Steering angle: 131
+Turn amt: -0.7000000000000011
+Adjusted turn: 46810
+red_px=1246
+stop_state=0
+Steering angle: 133
+Turn amt: -2.2331592562323967
+Adjusted turn: 46810
+red_px=1516
+stop_state=0
+Steering angle: 131
+Turn amt: 0.5886320414151183
+Adjusted turn: 46810
+red_px=1223
+stop_state=0
+Steering angle: 130
+Turn amt: 0.12799323241851213
+Adjusted turn: 46810
+red_px=1456
+stop_state=0
+Steering angle: 130
+Turn amt: -0.5
+Adjusted turn: 46810
+red_px=1630
+stop_state=0
+Steering angle: 131
+Turn amt: -1.3265064416146992
+Adjusted turn: 46810
+red_px=1289
+stop_state=0
+Steering angle: 130
+Turn amt: 0.06442572432076021
+Adjusted turn: 46810
+red_px=1077
+stop_state=0
+Steering angle: 131
+Turn amt: -1.344895561859515
+Adjusted turn: 46810
+red_px=1427
+stop_state=0
+Steering angle: 129
+Turn amt: 0.9671900420704391
+Adjusted turn: 46810
+red_px=1182
+stop_state=0
+Steering angle: 128
+Turn amt: 0.455272188095742
+Adjusted turn: 46810
+red_px=1105
+stop_state=0
+Steering angle: 128
+Turn amt: -0.10000000000000053
+Adjusted turn: 46810
+red_px=1429
+stop_state=0
+Steering angle: 128
+Turn amt: -0.10000000000000053
+Adjusted turn: 46810
+red_px=1421
+stop_state=0
+Steering angle: 129
+Turn amt: -1.3448797379270838
+Adjusted turn: 46810
+red_px=1481
+stop_state=0
+Steering angle: 128
+Turn amt: 0.4186316733129304
+Adjusted turn: 46810
+red_px=1109
+stop_state=0
+Steering angle: 125
+Turn amt: 2.008290320647288
+Adjusted turn: 46810
+red_px=1168
+stop_state=0
+Steering angle: 127
+Turn amt: -1.1709723263865222
+Adjusted turn: 46810
+red_px=1296
+stop_state=0
+Steering angle: 126
+Turn amt: 1.24161976494887
+Adjusted turn: 46810
+red_px=1284
+stop_state=0
+Steering angle: 124
+Turn amt: 2.817292747258294
+Adjusted turn: 46810
+red_px=882
+stop_state=0
+Steering angle: 128
+Turn amt: -3.9240847911561927
+Adjusted turn: 46810
+red_px=1009
+stop_state=0
+Steering angle: 124
+Turn amt: 4.584154280687132
+Adjusted turn: 46810
+red_px=1199
+stop_state=0
+Steering angle: 125
+Turn amt: -0.22825995989130732
+Adjusted turn: 46810
+red_px=957
+stop_state=0
+Steering angle: 125
+Turn amt: 0.5
+Adjusted turn: 46810
+red_px=938
+stop_state=0
+Steering angle: 126
+Turn amt: -0.2637278066744624
+Adjusted turn: 46810
+red_px=853
+stop_state=0
+Steering angle: 124
+Turn amt: 2.006779243842786
+Adjusted turn: 46810
+red_px=1013
+stop_state=0
+Steering angle: 124
+Turn amt: 0.6999999999999993
+Adjusted turn: 46810
+red_px=1073
+stop_state=0
+Steering angle: 124
+Turn amt: 0.6999999999999993
+Adjusted turn: 46810
+red_px=809
+stop_state=0
+Steering angle: 124
+Turn amt: 0.6999999999999993
+Adjusted turn: 46810
+red_px=864
+stop_state=0
+Steering angle: 123
+Turn amt: 1.4965826286705872
+Adjusted turn: 46810
+red_px=1006
+stop_state=0
+Steering angle: 124
+Turn amt: 0.0856704919113277
+Adjusted turn: 46810
+red_px=971
+stop_state=0
+Steering angle: 123
+Turn amt: 1.4512184672400985
+Adjusted turn: 46810
+red_px=908
+stop_state=0
+Steering angle: 122
+Turn amt: 1.750415823466927
+Adjusted turn: 46810
+red_px=974
+stop_state=0
+Steering angle: 124
+Turn amt: -0.5699140886967984
+Adjusted turn: 46810
+red_px=1024
+stop_state=0
+Steering angle: 122
+Turn amt: 2.2233338689806628
+Adjusted turn: 46810
+red_px=914
+stop_state=0
+Steering angle: 122
+Turn amt: 1.0999999999999996
+Adjusted turn: 46810
+red_px=996
+stop_state=0
+Steering angle: 120
+Turn amt: 2.628570486818827
+Adjusted turn: 46810
+red_px=706
+stop_state=0
+Steering angle: 123
+Turn amt: -0.9855606671362003
+Adjusted turn: 46810
+red_px=874
+stop_state=0
+Steering angle: 120
+Turn amt: 3.4126309309377785
+Adjusted turn: 46810
+red_px=903
+stop_state=0
+Steering angle: 120
+Turn amt: 1.5
+Adjusted turn: 46810
+red_px=816
+stop_state=0
+Steering angle: 120
+Turn amt: 1.5
+Adjusted turn: 46810
+red_px=789
+stop_state=0
+Steering angle: 121
+Turn amt: 0.7401809870199203
+Adjusted turn: 46810
+red_px=709
+stop_state=0
+Steering angle: 123
+Turn amt: -0.3722927820666442
+Adjusted turn: 46810
+red_px=903
+stop_state=0
+Steering angle: 119
+Turn amt: 3.5516672185065
+Adjusted turn: 46810
+red_px=910
+stop_state=0
+Steering angle: 120
+Turn amt: 0.6543827179161499
+Adjusted turn: 46810
+red_px=962
+stop_state=0
+Steering angle: 119
+Turn amt: 1.7272611072510973
+Adjusted turn: 46810
+red_px=1009
+stop_state=0
+Steering angle: 120
+Turn amt: 0.8334121610883315
+Adjusted turn: 46810
+red_px=772
+stop_state=0
+Steering angle: 120
+Turn amt: 1.5
+Adjusted turn: 46810
+red_px=1280
+stop_state=0
+Steering angle: 118
+Turn amt: 3.3363808838889746
+Adjusted turn: 46810
+red_px=490
+stop_state=0
+Steering angle: 117
+Turn amt: 2.8490698027449612
+Adjusted turn: 46810
+red_px=555
+stop_state=0
+Steering angle: 117
+Turn amt: 2.0999999999999996
+Adjusted turn: 46810
+red_px=610
+stop_state=0
+Steering angle: 116
+Turn amt: 3.3940901502504177
+Adjusted turn: 46810
+red_px=587
+stop_state=0
+Steering angle: 116
+Turn amt: 2.3
+Adjusted turn: 46810
+red_px=670
+stop_state=0
+Steering angle: 115
+Turn amt: 3.5813406208105603
+Adjusted turn: 46810
+red_px=571
+stop_state=0
+Steering angle: 115
+Turn amt: 2.5
+Adjusted turn: 46810
+red_px=447
+stop_state=0
+Steering angle: 116
+Turn amt: 1.5337771282426012
+Adjusted turn: 46810
+red_px=592
+stop_state=0
+Steering angle: 117
+Turn amt: 1.4714609401927135
+Adjusted turn: 46810
+red_px=624
+stop_state=0
+Steering angle: 115
+Turn amt: 3.6503140919718344
+Adjusted turn: 46810
+red_px=413
+stop_state=0
+Steering angle: 115
+Turn amt: 2.5
+Adjusted turn: 46810
+red_px=572
+stop_state=0
+Steering angle: 116
+Turn amt: 1.7418051516825144
+Adjusted turn: 46810
+red_px=617
+stop_state=0
+Steering angle: 115
+Turn amt: 3.145664937423993
+Adjusted turn: 46810
+red_px=483
+stop_state=0
+Steering angle: 115
+Turn amt: 2.5
+Adjusted turn: 46810
+red_px=600
+stop_state=0
+Steering angle: 115
+Turn amt: 2.5
+Adjusted turn: 46810
+red_px=674
+stop_state=0
+Steering angle: 114
+Turn amt: 3.332148304446118
+Adjusted turn: 46810
+red_px=437
+stop_state=0
+Steering angle: 114
+Turn amt: 2.6999999999999993
+Adjusted turn: 46810
+red_px=426
+stop_state=0
+Steering angle: 115
+Turn amt: 1.8617869886411187
+Adjusted turn: 46810
+red_px=513
+stop_state=0
+Steering angle: 114
+Turn amt: 3.334222551524957
+Adjusted turn: 46810
+red_px=510
+stop_state=0
+Steering angle: 114
+Turn amt: 2.6999999999999993
+Adjusted turn: 46810
+red_px=694
+stop_state=0
+Steering angle: 115
+Turn amt: 1.890938212444638
+Adjusted turn: 46810
+red_px=502
+stop_state=0
+Steering angle: 113
+Turn amt: 4.070628671904436
+Adjusted turn: 46810
+red_px=507
+stop_state=0
+Steering angle: 115
+Turn amt: 1.2403641387180813
+Adjusted turn: 46810
+red_px=475
+stop_state=0
+Steering angle: 114
+Turn amt: 3.342992442243718
+Adjusted turn: 46810
+red_px=630
+stop_state=0
+Steering angle: 113
+Turn amt: 3.4527475916237265
+Adjusted turn: 46810
+red_px=284
+stop_state=0
+Steering angle: 115
+Turn amt: 1.2222616218850908
+Adjusted turn: 46810
+red_px=443
+stop_state=0
+Steering angle: 114
+Turn amt: 3.2563881169205864
+Adjusted turn: 46810
+red_px=365
+stop_state=0
+Steering angle: 116
+Turn amt: 1.0106053782365099
+Adjusted turn: 46810
+red_px=568
+stop_state=0
+Steering angle: 113
+Turn amt: 4.808410228410228
+Adjusted turn: 46810
+red_px=318
+stop_state=0
+Steering angle: 113
+Turn amt: 2.8999999999999995
+Adjusted turn: 46810
+red_px=421
+stop_state=0
+Steering angle: 113
+Turn amt: 2.8999999999999995
+Adjusted turn: 46810
+red_px=387
+stop_state=0
+Steering angle: 111
+Turn amt: 4.427902814846686
+Adjusted turn: 46810
+red_px=335
+stop_state=0
+Steering angle: 112
+Turn amt: 2.50885747507135
+Adjusted turn: 46810
+red_px=363
+stop_state=0
+Steering angle: 112
+Turn amt: 3.0999999999999996
+Adjusted turn: 46810
+red_px=728
+stop_state=0
+Steering angle: 109
+Turn amt: 6.895416730153894
+Adjusted turn: 43690
+red_px=583
+stop_state=0
+Steering angle: 109
+Turn amt: 3.6999999999999997
+Adjusted turn: 46810
+red_px=1014
+stop_state=0
+Steering angle: 110
+Turn amt: 2.431019841219273
+Adjusted turn: 46810
+red_px=661
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=880
+stop_state=0
+Steering angle: 109
+Turn amt: 4.771834815496269
+Adjusted turn: 46810
+red_px=721
+stop_state=0
+Steering angle: 110
+Turn amt: 2.4315780625111443
+Adjusted turn: 46810
+red_px=891
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=927
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=1019
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=787
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=854
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=691
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=854
+stop_state=0
+Steering angle: 109
+Turn amt: 4.261283605657928
+Adjusted turn: 46810
+red_px=826
+stop_state=0
+Steering angle: 110
+Turn amt: 2.859682459715893
+Adjusted turn: 46810
+red_px=640
+stop_state=0
+Steering angle: 109
+Turn amt: 4.259990921167698
+Adjusted turn: 46810
+red_px=733
+stop_state=0
+Steering angle: 110
+Turn amt: 2.8650093107050396
+Adjusted turn: 46810
+red_px=855
+stop_state=0
+Steering angle: 109
+Turn amt: 4.327631439153043
+Adjusted turn: 46810
+red_px=608
+stop_state=0
+Steering angle: 108
+Turn amt: 4.47470389959168
+Adjusted turn: 46810
+red_px=755
+stop_state=0
+Steering angle: 110
+Turn amt: 2.2539666530506146
+Adjusted turn: 46810
+red_px=887
+stop_state=0
+Steering angle: 110
+Turn amt: 3.5
+Adjusted turn: 46810
+red_px=671
+stop_state=0
+Steering angle: 108
+Turn amt: 5.209165366127723
+Adjusted turn: 46810
+red_px=512
+stop_state=0
+Steering angle: 108
+Turn amt: 3.9
+Adjusted turn: 46810
+red_px=803
+stop_state=0
+Steering angle: 110
+Turn amt: 2.3735587484893244
+Adjusted turn: 46810
+red_px=601
+stop_state=0
+Steering angle: 109
+Turn amt: 4.343140333660451
+Adjusted turn: 46810
+red_px=698
+stop_state=0
+Steering angle: 108
+Turn amt: 4.53719012533232
+Adjusted turn: 46810
+red_px=713
+stop_state=0
+Steering angle: 108
+Turn amt: 3.9
+Adjusted turn: 46810
+red_px=719
+stop_state=0
+Steering angle: 109
+Turn amt: 3.080480189062442
+Adjusted turn: 46810
+red_px=847
+stop_state=0
+Steering angle: 108
+Turn amt: 4.46314500537057
+Adjusted turn: 46810
+red_px=918
+stop_state=0
+Steering angle: 108
+Turn amt: 3.9
+Adjusted turn: 46810
+red_px=738
+stop_state=0
+Steering angle: 109
+Turn amt: 3.061908355139049
+Adjusted turn: 46810
+red_px=770
+stop_state=0
+Steering angle: 108
+Turn amt: 3.9306456118175057
+Adjusted turn: 46810
+red_px=1041
+stop_state=0
+Steering angle: 108
+Turn amt: 3.9
+Adjusted turn: 46810
+red_px=771
+stop_state=0
+Steering angle: 108
+Turn amt: 3.9
+Adjusted turn: 46810
+red_px=755
+stop_state=0
+Steering angle: 106
+Turn amt: 6.457452805925621
+Adjusted turn: 46810
+red_px=560
+stop_state=0
+Steering angle: 104
+Turn amt: 6.80177590699539
+Adjusted turn: 43690
+red_px=306
+stop_state=0
+Steering angle: 90
+Turn amt: 22.63174663711797
+Adjusted turn: 23405
+red_px=345
+stop_state=0
+Steering angle: 105
+Turn amt: -11.346498331339339
+Adjusted turn: 46810
+red_px=429
+stop_state=0
+Steering angle: 90
+Turn amt: 23.665097636176775
+Adjusted turn: 23405
+red_px=406
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=250
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=426
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=339
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=774
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=473
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=432
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=493
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=664
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=657
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=747
+stop_state=0
+Steering angle: 104
+Turn amt: -4.362397234375846
+Adjusted turn: 46810
+red_px=841
+stop_state=0
+Steering angle: 105
+Turn amt: 3.936957049943955
+Adjusted turn: 46810
+red_px=1023
+stop_state=0
+Steering angle: 106
+Turn amt: 3.651900737055178
+Adjusted turn: 46810
+red_px=962
+stop_state=0
+Steering angle: 107
+Turn amt: 3.486685578504843
+Adjusted turn: 46810
+red_px=1153
+stop_state=0
+Steering angle: 90
+Turn amt: 17.29439120879121
+Adjusted turn: 23405
+red_px=1106
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1326
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1100
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1112
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1283
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1559
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1342
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1417
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1298
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1108
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1431
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1170
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=953
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=973
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=439
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=522
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=442
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=873
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=951
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=888
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=849
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1176
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1681
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1148
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1154
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1133
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=2177
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1351
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=2132
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=3402
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=5803
+stop_state=0
+First stop! 1
+red_px=8017
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=11598
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=12853
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=16179
+stop_state=0
+Steering angle: 105
+Turn amt: -12.161474291918807
+Adjusted turn: 46810
+red_px=20163
+stop_state=0
+Steering angle: 90
+Turn amt: 24.62496699647509
+Adjusted turn: 23405
+red_px=19331
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=19781
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=20770
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=19300
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=19231
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=19321
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=20076
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=19733
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=19338
+stop_state=0
+Steering angle: 103
+Turn amt: -2.465783913760032
+Adjusted turn: 46810
+red_px=18929
+stop_state=0
+Steering angle: 90
+Turn amt: 13.937804631832485
+Adjusted turn: 23405
+red_px=19345
+stop_state=0
+Steering angle: 102
+Turn amt: 4.374362269226859
+Adjusted turn: 46810
+red_px=18701
+stop_state=0
+Steering angle: 90
+Turn amt: 20.006155470797978
+Adjusted turn: 23405
+red_px=18525
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=18299
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=13122
+stop_state=0
+Steering angle: 104
+Turn amt: -4.639279994274309
+Adjusted turn: 46810
+red_px=12087
+stop_state=0
+Steering angle: 104
+Turn amt: 4.699999999999999
+Adjusted turn: 46810
+red_px=11666
+stop_state=0
+Steering angle: 104
+Turn amt: 4.699999999999999
+Adjusted turn: 46810
+red_px=10718
+stop_state=0
+Steering angle: 104
+Turn amt: 4.699999999999999
+Adjusted turn: 46810
+red_px=10057
+stop_state=0
+Steering angle: 102
+Turn amt: 7.37954401554369
+Adjusted turn: 43690
+red_px=9172
+stop_state=0
+Steering angle: 103
+Turn amt: 3.8160324598128907
+Adjusted turn: 46810
+red_px=8979
+stop_state=0
+Steering angle: 104
+Turn amt: 3.9912453002357267
+Adjusted turn: 46810
+red_px=8192
+stop_state=0
+Steering angle: 104
+Turn amt: 4.699999999999999
+Adjusted turn: 46810
+red_px=8023
+stop_state=0
+Steering angle: 104
+Turn amt: 4.699999999999999
+Adjusted turn: 46810
+red_px=7044
+stop_state=0
+Steering angle: 102
+Turn amt: 6.221074485643455
+Adjusted turn: 46810
+red_px=6810
+stop_state=0
+Steering angle: 103
+Turn amt: 4.23979679051794
+Adjusted turn: 46810
+red_px=6735
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=6226
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=5679
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=5475
+stop_state=0
+Steering angle: 104
+Turn amt: 4.181647140244203
+Adjusted turn: 46810
+red_px=5390
+stop_state=0
+Steering angle: 102
+Turn amt: 6.384704729233031
+Adjusted turn: 46810
+red_px=5210
+stop_state=0
+Steering angle: 102
+Turn amt: 5.1
+Adjusted turn: 46810
+red_px=5175
+stop_state=0
+Steering angle: 103
+Turn amt: 4.16983200738123
+Adjusted turn: 46810
+red_px=4726
+stop_state=0
+Steering angle: 102
+Turn amt: 5.690497536252288
+Adjusted turn: 46810
+red_px=3765
+stop_state=0
+Steering angle: 102
+Turn amt: 5.1
+Adjusted turn: 46810
+red_px=3644
+stop_state=0
+Steering angle: 102
+Turn amt: 5.1
+Adjusted turn: 46810
+red_px=3620
+stop_state=0
+Steering angle: 103
+Turn amt: 4.339949259929365
+Adjusted turn: 46810
+red_px=3579
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=3407
+stop_state=0
+Steering angle: 101
+Turn amt: 6.6346817075305085
+Adjusted turn: 46810
+red_px=3225
+stop_state=0
+Steering angle: 90
+Turn amt: 13.906007053400351
+Adjusted turn: 23405
+red_px=2597
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=2617
+stop_state=0
+Steering angle: 102
+Turn amt: -1.7580603756617021
+Adjusted turn: 46810
+red_px=2724
+stop_state=0
+Steering angle: 90
+Turn amt: 15.209881437455962
+Adjusted turn: 23405
+red_px=2707
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=2641
+stop_state=0
+Steering angle: 102
+Turn amt: 4.713727993749858
+Adjusted turn: 46810
+red_px=2435
+stop_state=0
+Steering angle: 90
+Turn amt: 19.6729866737611
+Adjusted turn: 23405
+red_px=2294
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=2161
+stop_state=0
+Steering angle: 102
+Turn amt: -4.3757978763461125
+Adjusted turn: 46810
+red_px=15
+stop_state=0
+Steering angle: 103
+Turn amt: 4.3474126187370725
+Adjusted turn: 46810
+red_px=49
+stop_state=0
+Steering angle: 104
+Turn amt: 4.133317030331689
+Adjusted turn: 46810
+red_px=95
+stop_state=0
+Steering angle: 103
+Turn amt: 5.6543305217344395
+Adjusted turn: 46810
+red_px=37
+stop_state=0
+Steering angle: 104
+Turn amt: 3.6476750925170913
+Adjusted turn: 46810
+red_px=76
+stop_state=0
+Steering angle: 102
+Turn amt: 7.296459421599047
+Adjusted turn: 43690
+red_px=133
+stop_state=0
+Steering angle: 103
+Turn amt: 3.843207437829122
+Adjusted turn: 46810
+red_px=128
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=87
+stop_state=0
+Steering angle: 102
+Turn amt: 5.645689250284599
+Adjusted turn: 46810
+red_px=72
+stop_state=0
+Steering angle: 102
+Turn amt: 5.1
+Adjusted turn: 46810
+red_px=128
+stop_state=0
+Steering angle: 101
+Turn amt: 5.801627000263114
+Adjusted turn: 46810
+red_px=291
+stop_state=0
+Steering angle: 102
+Turn amt: 4.343949420024694
+Adjusted turn: 46810
+red_px=170
+stop_state=0
+Steering angle: 90
+Turn amt: 15.443506833748936
+Adjusted turn: 23405
+red_px=196
+stop_state=0
+Steering angle: 100
+Turn amt: -0.062036613424039544
+Adjusted turn: 46810
+red_px=270
+stop_state=0
+Steering angle: 90
+Turn amt: 14.006377928937635
+Adjusted turn: 23405
+red_px=143
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=175
+stop_state=0
+Steering angle: 100
+Turn amt: -0.8709817800697213
+Adjusted turn: 46810
+red_px=242
+stop_state=0
+Steering angle: 90
+Turn amt: 13.916006730658918
+Adjusted turn: 23405
+red_px=88
+stop_state=0
+Steering angle: 102
+Turn amt: -1.751385478206421
+Adjusted turn: 46810
+red_px=162
+stop_state=0
+Steering angle: 90
+Turn amt: 15.87311773219544
+Adjusted turn: 23405
+red_px=204
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=246
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=227
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=183
+stop_state=0
+Steering angle: 103
+Turn amt: -2.2924484896451673
+Adjusted turn: 46810
+red_px=275
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=232
+stop_state=0
+Steering angle: 102
+Turn amt: 5.6727145987943
+Adjusted turn: 46810
+red_px=290
+stop_state=0
+Steering angle: 103
+Turn amt: 4.277459554130674
+Adjusted turn: 46810
+red_px=262
+stop_state=0
+Steering angle: 104
+Turn amt: 4.05312517832494
+Adjusted turn: 46810
+red_px=286
+stop_state=0
+Steering angle: 103
+Turn amt: 5.463205500053712
+Adjusted turn: 46810
+red_px=356
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=302
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=310
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=303
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=292
+stop_state=0
+Steering angle: 103
+Turn amt: 4.9
+Adjusted turn: 46810
+red_px=262
+stop_state=0
+Steering angle: 90
+Turn amt: 18.392119856172595
+Adjusted turn: 23405
+red_px=227
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=280
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=300
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=268
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=252
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=473
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=308
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=331
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=460
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=311
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=505
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=411
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=349
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=347
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=327
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=323
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=429
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=415
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=680
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=337
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=669
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=676
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=597
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=363
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=387
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=382
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=422
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=331
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=451
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=466
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=376
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=553
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=513
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=536
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=759
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=540
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=511
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=671
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=530
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=550
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=616
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=527
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=484
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=604
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=571
+stop_state=0
+Steering angle: 104
+Turn amt: -2.942334077347061
+Adjusted turn: 46810
+red_px=559
+stop_state=0
+Steering angle: 90
+Turn amt: 16.693210956030278
+Adjusted turn: 23405
+red_px=567
+stop_state=0
+Steering angle: 78
+Turn amt: 16.60811371299863
+Adjusted turn: 23405
+red_px=771
+stop_state=0
+Steering angle: 74
+Turn amt: 13.254426224516207
+Adjusted turn: 23405
+red_px=573
+stop_state=0
+Steering angle: 71
+Turn amt: 13.146328300391778
+Adjusted turn: 23405
+red_px=637
+stop_state=0
+Steering angle: 75
+Turn amt: 8.200948139418564
+Adjusted turn: 29784
+red_px=425
+stop_state=0
+Steering angle: 79
+Turn amt: 7.139667925680056
+Adjusted turn: 43690
+red_px=626
+stop_state=0
+Steering angle: 75
+Turn amt: 12.749288232849349
+Adjusted turn: 23405
+red_px=505
+stop_state=0
+Steering angle: 73
+Turn amt: 12.173799711487359
+Adjusted turn: 23405
+red_px=500
+stop_state=0
+Steering angle: 76
+Turn amt: 8.414156737556764
+Adjusted turn: 29784
+red_px=603
+stop_state=0
+Steering angle: 73
+Turn amt: 12.594588403240252
+Adjusted turn: 23405
+red_px=519
+stop_state=0
+Steering angle: 116
+Turn amt: -24.182302361094802
+Adjusted turn: 46810
+red_px=577
+stop_state=0
+Steering angle: 76
+Turn amt: 33.073316320643954
+Adjusted turn: 23405
+red_px=458
+stop_state=0
+Steering angle: 76
+Turn amt: 10.3
+Adjusted turn: 29784
+red_px=509
+stop_state=0
+Steering angle: 113
+Turn amt: -20.60657729913132
+Adjusted turn: 46810
+red_px=487
+stop_state=0
+Steering angle: 112
+Turn amt: 3.6356915335198026
+Adjusted turn: 46810
+red_px=505
+stop_state=0
+Steering angle: 113
+Turn amt: 2.2367116312168887
+Adjusted turn: 46810
+red_px=411
+stop_state=0
+Steering angle: 112
+Turn amt: 3.7408850111925185
+Adjusted turn: 46810
+red_px=483
+stop_state=0
+Steering angle: 108
+Turn amt: 4.030708772574962
+Adjusted turn: 46810
+red_px=623
+stop_state=0
+Steering angle: 111
+Turn amt: 1.7541687244315036
+Adjusted turn: 46810
+red_px=643
+stop_state=0
+Steering angle: 112
+Turn amt: 2.5770553141617465
+Adjusted turn: 46810
+red_px=542
+stop_state=0
+Steering angle: 113
+Turn amt: 1.9861883701169953
+Adjusted turn: 46810
+red_px=797
+stop_state=0
+Steering angle: 78
+Turn amt: 45.59880842371481
+Adjusted turn: 23405
+red_px=741
+stop_state=0
+Steering angle: 78
+Turn amt: 9.9
+Adjusted turn: 29784
+red_px=798
+stop_state=0
+Steering angle: 79
+Turn amt: 8.664714477890085
+Adjusted turn: 29784
+red_px=732
+stop_state=0
+Steering angle: 79
+Turn amt: 9.7
+Adjusted turn: 29784
+red_px=667
+stop_state=0
+Steering angle: 79
+Turn amt: 9.7
+Adjusted turn: 29784
+red_px=528
+stop_state=0
+Steering angle: 79
+Turn amt: 9.7
+Adjusted turn: 29784
+red_px=720
+stop_state=0
+Steering angle: 81
+Turn amt: 8.151756460797197
+Adjusted turn: 29784
+red_px=757
+stop_state=0
+Steering angle: 80
+Turn amt: 10.135905273052549
+Adjusted turn: 29784
+red_px=880
+stop_state=0
+Steering angle: 80
+Turn amt: 9.5
+Adjusted turn: 29784
+red_px=934
+stop_state=0
+Steering angle: 79
+Turn amt: 10.245139589290355
+Adjusted turn: 29784
+red_px=803
+stop_state=0
+Steering angle: 81
+Turn amt: 8.014872116982897
+Adjusted turn: 29784
+red_px=925
+stop_state=0
+Steering angle: 80
+Turn amt: 10.058224564625714
+Adjusted turn: 29784
+red_px=816
+stop_state=0
+Steering angle: 81
+Turn amt: 8.685683988517196
+Adjusted turn: 29784
+red_px=533
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=918
+stop_state=0
+Steering angle: 80
+Turn amt: 10.071022633674824
+Adjusted turn: 29784
+red_px=824
+stop_state=0
+Steering angle: 81
+Turn amt: 8.666088973861001
+Adjusted turn: 29784
+red_px=601
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=413
+stop_state=0
+Steering angle: 79
+Turn amt: 10.997752612566618
+Adjusted turn: 29784
+red_px=775
+stop_state=0
+Steering angle: 79
+Turn amt: 9.7
+Adjusted turn: 29784
+red_px=627
+stop_state=0
+Steering angle: 78
+Turn amt: 10.452216341469837
+Adjusted turn: 29784
+red_px=445
+stop_state=0
+Steering angle: 79
+Turn amt: 9.043578443263716
+Adjusted turn: 29784
+red_px=453
+stop_state=0
+Steering angle: 80
+Turn amt: 8.946384203162536
+Adjusted turn: 29784
+red_px=688
+stop_state=0
+Steering angle: 79
+Turn amt: 10.33390144559558
+Adjusted turn: 29784
+red_px=774
+stop_state=0
+Steering angle: 80
+Turn amt: 8.851800577990016
+Adjusted turn: 29784
+red_px=386
+stop_state=0
+Steering angle: 80
+Turn amt: 9.5
+Adjusted turn: 29784
+red_px=533
+stop_state=0
+Steering angle: 80
+Turn amt: 9.5
+Adjusted turn: 29784
+red_px=419
+stop_state=0
+Steering angle: 81
+Turn amt: 8.61828201314902
+Adjusted turn: 29784
+red_px=569
+stop_state=0
+Steering angle: 80
+Turn amt: 10.05107724244853
+Adjusted turn: 29784
+red_px=462
+stop_state=0
+Steering angle: 81
+Turn amt: 8.67261734525982
+Adjusted turn: 29784
+red_px=632
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=499
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=372
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=410
+stop_state=0
+Steering angle: 82
+Turn amt: 8.118945103267606
+Adjusted turn: 29784
+red_px=455
+stop_state=0
+Steering angle: 81
+Turn amt: 10.292499763369618
+Adjusted turn: 29784
+red_px=485
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=509
+stop_state=0
+Steering angle: 80
+Turn amt: 10.422341971874348
+Adjusted turn: 29784
+red_px=514
+stop_state=0
+Steering angle: 77
+Turn amt: 13.016795975845803
+Adjusted turn: 23405
+red_px=586
+stop_state=0
+Steering angle: 81
+Turn amt: 6.12949250233859
+Adjusted turn: 46810
+red_px=451
+stop_state=0
+Steering angle: 82
+Turn amt: 8.453249861222476
+Adjusted turn: 29784
+red_px=437
+stop_state=0
+Steering angle: 80
+Turn amt: 10.617765696620829
+Adjusted turn: 29784
+red_px=394
+stop_state=0
+Steering angle: 79
+Turn amt: 10.332963955058892
+Adjusted turn: 29784
+red_px=534
+stop_state=0
+Steering angle: 82
+Turn amt: 7.229783220992709
+Adjusted turn: 43690
+red_px=490
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=448
+stop_state=0
+Steering angle: 84
+Turn amt: 7.42513556231003
+Adjusted turn: 32767
+red_px=450
+stop_state=0
+Steering angle: 82
+Turn amt: 10.218839095177124
+Adjusted turn: 29784
+red_px=470
+stop_state=0
+Steering angle: 85
+Turn amt: 6.587005594745803
+Adjusted turn: 46810
+red_px=592
+stop_state=0
+Steering angle: 83
+Turn amt: 10.15203104477612
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=495
+stop_state=0
+Steering angle: 85
+Turn amt: 7.353937017555844
+Adjusted turn: 43690
+red_px=459
+stop_state=0
+Steering angle: 76
+Turn amt: 15.805620442214575
+Adjusted turn: 23405
+red_px=481
+stop_state=0
+Steering angle: 85
+Turn amt: 3.4445914021695447
+Adjusted turn: 46810
+red_px=528
+stop_state=0
+Steering angle: 82
+Turn amt: 11.034612321458772
+Adjusted turn: 29784
+red_px=597
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=428
+stop_state=0
+Steering angle: 78
+Turn amt: 12.079212989121611
+Adjusted turn: 23405
+red_px=462
+stop_state=0
+Steering angle: 86
+Turn amt: 3.1535357904262336
+Adjusted turn: 46810
+red_px=411
+stop_state=0
+Steering angle: 79
+Turn amt: 13.705583781276433
+Adjusted turn: 23405
+red_px=202
+stop_state=0
+Steering angle: 82
+Turn amt: 7.1522712567527815
+Adjusted turn: 43690
+red_px=266
+stop_state=0
+Steering angle: 84
+Turn amt: 7.4596046045676
+Adjusted turn: 32767
+red_px=461
+stop_state=0
+Steering angle: 86
+Turn amt: 7.2113762539418875
+Adjusted turn: 43690
+red_px=336
+stop_state=0
+Steering angle: 83
+Turn amt: 10.917963739585756
+Adjusted turn: 29784
+red_px=437
+stop_state=0
+Steering angle: 85
+Turn amt: 7.23184253492169
+Adjusted turn: 43690
+skipping vertical lines (slope = infinity
+red_px=391
+stop_state=0
+Steering angle: 25
+Turn amt: 53.899458512501994
+Adjusted turn: 23405
+red_px=270
+stop_state=0
+Steering angle: 71
+Turn amt: -17.66401363097294
+Adjusted turn: 46810
+red_px=446
+stop_state=0
+Steering angle: 79
+Turn amt: 9.4723229289721
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=377
+stop_state=0
+Steering angle: 45
+Turn amt: 35.50568892561323
+Adjusted turn: 23405
+skipping vertical lines (slope = infinity
+red_px=383
+stop_state=0
+Steering angle: 45
+Turn amt: 16.5
+Adjusted turn: 23405
+skipping vertical lines (slope = infinity
+red_px=433
+stop_state=0
+Steering angle: 90
+Turn amt: -38.86468550794061
+Adjusted turn: 46810
+red_px=671
+stop_state=0
+Steering angle: 38
+Turn amt: 73.22049257460274
+Adjusted turn: 23405
+red_px=499
+stop_state=0
+Steering angle: 39
+Turn amt: 16.60987667476706
+Adjusted turn: 23405
+red_px=715
+stop_state=0
+Steering angle: 39
+Turn amt: 17.700000000000003
+Adjusted turn: 23405
+red_px=718
+stop_state=0
+Steering angle: 40
+Turn amt: 16.529657836899943
+Adjusted turn: 23405
+red_px=482
+stop_state=0
+Steering angle: 39
+Turn amt: 18.73698766286746
+Adjusted turn: 23405
+red_px=820
+stop_state=0
+Steering angle: 39
+Turn amt: 17.700000000000003
+Adjusted turn: 23405
+red_px=459
+stop_state=0
+Steering angle: 39
+Turn amt: 17.700000000000003
+Adjusted turn: 23405
+red_px=646
+stop_state=0
+Steering angle: 40
+Turn amt: 16.94813604815631
+Adjusted turn: 23405
+red_px=603
+stop_state=0
+Steering angle: 41
+Turn amt: 16.65633163245732
+Adjusted turn: 23405
+red_px=645
+stop_state=0
+Steering angle: 40
+Turn amt: 18.119003232042974
+Adjusted turn: 23405
+red_px=772
+stop_state=0
+Steering angle: 41
+Turn amt: 16.739399075088883
+Adjusted turn: 23405
+red_px=930
+stop_state=0
+Steering angle: 40
+Turn amt: 18.154250840372182
+Adjusted turn: 23405
+red_px=661
+stop_state=0
+Steering angle: 40
+Turn amt: 17.5
+Adjusted turn: 23405
+red_px=740
+stop_state=0
+Steering angle: 42
+Turn amt: 15.808391765593486
+Adjusted turn: 23405
+red_px=744
+stop_state=0
+Steering angle: 40
+Turn amt: 18.77169486386514
+Adjusted turn: 23405
+red_px=594
+stop_state=0
+Steering angle: 42
+Turn amt: 15.988815710169886
+Adjusted turn: 23405
+red_px=545
+stop_state=0
+Steering angle: 42
+Turn amt: 17.1
+Adjusted turn: 23405
+red_px=620
+stop_state=0
+Steering angle: 42
+Turn amt: 17.1
+Adjusted turn: 23405
+red_px=623
+stop_state=0
+Steering angle: 43
+Turn amt: 16.264205579851293
+Adjusted turn: 23405
+red_px=621
+stop_state=0
+Steering angle: 42
+Turn amt: 17.714658108385358
+Adjusted turn: 23405
+red_px=642
+stop_state=0
+Steering angle: 44
+Turn amt: 15.560382833620892
+Adjusted turn: 23405
+red_px=627
+stop_state=0
+Steering angle: 43
+Turn amt: 17.544652721208674
+Adjusted turn: 23405
+red_px=532
+stop_state=0
+Steering angle: 43
+Turn amt: 16.9
+Adjusted turn: 23405
+red_px=814
+stop_state=0
+Steering angle: 44
+Turn amt: 16.076144693003336
+Adjusted turn: 23405
+red_px=697
+stop_state=0
+Steering angle: 44
+Turn amt: 16.700000000000003
+Adjusted turn: 23405
+red_px=596
+stop_state=0
+Steering angle: 45
+Turn amt: 15.948371933977773
+Adjusted turn: 23405
+red_px=483
+stop_state=0
+Steering angle: 45
+Turn amt: 16.5
+Adjusted turn: 23405
+red_px=669
+stop_state=0
+Steering angle: 45
+Turn amt: 16.5
+Adjusted turn: 23405
+red_px=612
+stop_state=0
+Steering angle: 44
+Turn amt: 17.253141229377402
+Adjusted turn: 23405
+red_px=523
+stop_state=0
+Steering angle: 45
+Turn amt: 15.847240837288927
+Adjusted turn: 23405
+red_px=458
+stop_state=0
+Steering angle: 45
+Turn amt: 16.5
+Adjusted turn: 23405
+red_px=410
+stop_state=0
+Steering angle: 45
+Turn amt: 16.5
+Adjusted turn: 23405
+red_px=382
+stop_state=0
+Steering angle: 46
+Turn amt: 15.557349563985658
+Adjusted turn: 23405
+red_px=298
+stop_state=0
+Steering angle: 46
+Turn amt: 16.3
+Adjusted turn: 23405
+red_px=698
+stop_state=0
+Steering angle: 52
+Turn amt: 8.983550899877262
+Adjusted turn: 29784
+red_px=523
+stop_state=0
+Steering angle: 52
+Turn amt: 15.100000000000001
+Adjusted turn: 23405
+red_px=581
+stop_state=0
+Steering angle: 52
+Turn amt: 15.100000000000001
+Adjusted turn: 23405
+red_px=264
+stop_state=0
+Steering angle: 51
+Turn amt: 16.303842278465865
+Adjusted turn: 23405
+red_px=506
+stop_state=0
+Steering angle: 53
+Turn amt: 12.679998676776098
+Adjusted turn: 23405
+red_px=342
+stop_state=0
+Steering angle: 53
+Turn amt: 14.9
+Adjusted turn: 23405
+red_px=296
+stop_state=0
+Steering angle: 52
+Turn amt: 15.744395212708755
+Adjusted turn: 23405
+red_px=357
+stop_state=0
+Steering angle: 52
+Turn amt: 15.100000000000001
+Adjusted turn: 23405
+red_px=278
+stop_state=0
+Steering angle: 52
+Turn amt: 15.100000000000001
+Adjusted turn: 23405
+red_px=191
+stop_state=0
+Steering angle: 54
+Turn amt: 13.414921335232929
+Adjusted turn: 23405
+red_px=305
+stop_state=0
+Steering angle: 53
+Turn amt: 15.47272241907844
+Adjusted turn: 23405
+red_px=340
+stop_state=0
+Steering angle: 55
+Turn amt: 13.233785462531792
+Adjusted turn: 23405
+red_px=210
+stop_state=0
+Steering angle: 53
+Turn amt: 16.009068769707746
+Adjusted turn: 23405
+red_px=149
+stop_state=0
+Steering angle: 55
+Turn amt: 13.214970549713156
+Adjusted turn: 23405
+red_px=109
+stop_state=0
+Steering angle: 55
+Turn amt: 14.5
+Adjusted turn: 23405
+red_px=253
+stop_state=0
+Steering angle: 54
+Turn amt: 15.242078333301022
+Adjusted turn: 23405
+red_px=209
+stop_state=0
+Steering angle: 55
+Turn amt: 13.843033511633918
+Adjusted turn: 23405
+red_px=165
+stop_state=0
+Steering angle: 55
+Turn amt: 14.5
+Adjusted turn: 23405
+red_px=145
+stop_state=0
+Steering angle: 56
+Turn amt: 13.65852689051854
+Adjusted turn: 23405
+red_px=119
+stop_state=0
+Steering angle: 56
+Turn amt: 14.3
+Adjusted turn: 23405
+red_px=103
+stop_state=0
+Steering angle: 55
+Turn amt: 15.068792454621274
+Adjusted turn: 23405
+red_px=96
+stop_state=0
+Steering angle: 56
+Turn amt: 13.663283844916052
+Adjusted turn: 23405
+red_px=104
+stop_state=0
+Steering angle: 57
+Turn amt: 13.46841331747203
+Adjusted turn: 23405
+red_px=216
+stop_state=0
+Steering angle: 58
+Turn amt: 13.357571144979923
+Adjusted turn: 23405
+red_px=134
+stop_state=0
+Steering angle: 57
+Turn amt: 14.752886173483288
+Adjusted turn: 23405
+red_px=200
+stop_state=0
+Steering angle: 57
+Turn amt: 14.100000000000001
+Adjusted turn: 23405
+red_px=98
+stop_state=0
+Steering angle: 58
+Turn amt: 13.281676605217186
+Adjusted turn: 23405
+red_px=42
+stop_state=0
+Steering angle: 58
+Turn amt: 13.9
+Adjusted turn: 23405
+red_px=173
+stop_state=0
+Steering angle: 57
+Turn amt: 14.651012086179717
+Adjusted turn: 23405
+red_px=256
+stop_state=0
+Steering angle: 60
+Turn amt: 13.399606401363377
+Adjusted turn: 23405
+red_px=116
+stop_state=0
+Steering angle: 59
+Turn amt: 14.335168586117861
+Adjusted turn: 23405
+red_px=112
+stop_state=0
+Steering angle: 56
+Turn amt: 16.23700972129217
+Adjusted turn: 23405
+red_px=185
+stop_state=0
+Steering angle: 58
+Turn amt: 12.662157950655176
+Adjusted turn: 23405
+red_px=27
+stop_state=0
+Steering angle: 90
+Turn amt: -26.333132428378775
+Adjusted turn: 46810
+red_px=18
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=41
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=35
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=43
+stop_state=0
+Steering angle: 53
+Turn amt: 52.93564814587878
+Adjusted turn: 23405
+red_px=56
+stop_state=0
+Steering angle: 90
+Turn amt: -31.446281526840167
+Adjusted turn: 46810
+red_px=103
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=127
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=65
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=173
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=42
+stop_state=0
+Steering angle: 56
+Turn amt: 36.47138308457712
+Adjusted turn: 23405
+red_px=68
+stop_state=0
+Steering angle: 90
+Turn amt: -11.402903044080517
+Adjusted turn: 46810
+red_px=52
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=27
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=57
+stop_state=0
+Steering angle: 58
+Turn amt: 32.03348753318517
+Adjusted turn: 23405
+red_px=175
+stop_state=0
+Steering angle: 60
+Turn amt: 12.255187012620848
+Adjusted turn: 23405
+red_px=45
+stop_state=0
+Steering angle: 90
+Turn amt: -10.038381768764378
+Adjusted turn: 46810
+red_px=26
+stop_state=0
+Steering angle: 59
+Turn amt: 32.522696661744696
+Adjusted turn: 23405
+red_px=28
+stop_state=0
+Steering angle: 90
+Turn amt: -12.817112364642096
+Adjusted turn: 46810
+red_px=97
+stop_state=0
+Steering angle: 59
+Turn amt: 30.83257884507692
+Adjusted turn: 23405
+red_px=18
+stop_state=0
+Steering angle: 90
+Turn amt: -12.469655278334528
+Adjusted turn: 46810
+red_px=27
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=55
+stop_state=0
+Steering angle: 62
+Turn amt: 28.933003525470347
+Adjusted turn: 23405
+red_px=29
+stop_state=0
+Steering angle: 90
+Turn amt: -8.170853726882124
+Adjusted turn: 46810
+red_px=8
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=23
+stop_state=0
+Steering angle: 62
+Turn amt: 31.958674888396445
+Adjusted turn: 23405
+red_px=28
+stop_state=0
+Steering angle: 90
+Turn amt: -12.493107310969435
+Adjusted turn: 46810
+red_px=27
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=31
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=56
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=77
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=55
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=69
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=85
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=33
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=58
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=34
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=70
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=61
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=52
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=88
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=72
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=46
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=60
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=66
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=33
+stop_state=0
+Steering angle: 47
+Turn amt: 44.49499531617769
+Adjusted turn: 23405
+red_px=72
+stop_state=0
+Steering angle: 45
+Turn amt: 17.740982595252714
+Adjusted turn: 23405
+red_px=55
+stop_state=0
+Steering angle: 90
+Turn amt: -17.63616332727382
+Adjusted turn: 46810
+red_px=54
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=35
+stop_state=0
+Steering angle: 45
+Turn amt: 41.29000748650459
+Adjusted turn: 23405
+red_px=123
+stop_state=0
+Steering angle: 45
+Turn amt: 16.5
+Adjusted turn: 23405
+red_px=187
+stop_state=0
+Steering angle: 90
+Turn amt: -22.97374004020247
+Adjusted turn: 46810
+red_px=208
+stop_state=0
+Steering angle: 46
+Turn amt: 40.5360943707196
+Adjusted turn: 23405
+red_px=242
+stop_state=0
+Steering angle: 90
+Turn amt: -21.097010281322397
+Adjusted turn: 46810
+red_px=221
+stop_state=0
+Steering angle: 48
+Turn amt: 41.64452412442549
+Adjusted turn: 23405
+red_px=257
+stop_state=0
+Steering angle: 90
+Turn amt: -16.854472156168782
+Adjusted turn: 46810
+red_px=127
+stop_state=0
+Steering angle: 49
+Turn amt: 41.6114415296759
+Adjusted turn: 23405
+red_px=324
+stop_state=0
+Steering angle: 51
+Turn amt: 14.172430724976646
+Adjusted turn: 23405
+red_px=103
+stop_state=0
+Steering angle: 52
+Turn amt: 14.470182069359042
+Adjusted turn: 23405
+red_px=295
+stop_state=0
+Steering angle: 90
+Turn amt: -17.26014851408243
+Adjusted turn: 46810
+red_px=79
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=375
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=175
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=446
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=363
+stop_state=0
+Steering angle: 56
+Turn amt: 15.235604814411086
+Adjusted turn: 23405
+red_px=194
+stop_state=0
+Steering angle: 90
+Turn amt: -14.165945412143639
+Adjusted turn: 46810
+red_px=381
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=307
+stop_state=0
+Steering angle: 57
+Turn amt: 35.16231132685593
+Adjusted turn: 23405
+red_px=680
+stop_state=0
+Steering angle: 63
+Turn amt: 7.540266646788844
+Adjusted turn: 32767
+red_px=297
+stop_state=0
+Steering angle: 62
+Turn amt: 14.211265250970367
+Adjusted turn: 23405
+red_px=465
+stop_state=0
+Steering angle: 66
+Turn amt: 7.696881541943892
+Adjusted turn: 32767
+red_px=335
+stop_state=0
+Steering angle: 65
+Turn amt: 13.572643437120389
+Adjusted turn: 23405
+red_px=434
+stop_state=0
+Steering angle: 67
+Turn amt: 9.921791412954573
+Adjusted turn: 29784
+red_px=691
+stop_state=0
+Steering angle: 66
+Turn amt: 13.361849113924052
+Adjusted turn: 23405
+red_px=671
+stop_state=0
+Steering angle: 67
+Turn amt: 11.471135816722018
+Adjusted turn: 29784
+red_px=396
+stop_state=0
+Steering angle: 67
+Turn amt: 12.100000000000001
+Adjusted turn: 23405
+red_px=431
+stop_state=0
+Steering angle: 68
+Turn amt: 11.255406722095007
+Adjusted turn: 29784
+red_px=491
+stop_state=0
+Steering angle: 69
+Turn amt: 11.13314854107821
+Adjusted turn: 29784
+red_px=448
+stop_state=0
+Steering angle: 70
+Turn amt: 10.866930954591078
+Adjusted turn: 29784
+red_px=370
+stop_state=0
+Steering angle: 90
+Turn amt: -5.238577416023814
+Adjusted turn: 46810
+red_px=479
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=675
+stop_state=0
+Steering angle: 71
+Turn amt: 22.918655333542308
+Adjusted turn: 23405
+red_px=596
+stop_state=0
+Steering angle: 90
+Turn amt: -4.798398265391947
+Adjusted turn: 46810
+red_px=350
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=416
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=512
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=513
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=287
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=327
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=271
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=317
+stop_state=0
+Steering angle: 72
+Turn amt: 21.20641839295874
+Adjusted turn: 23405
+red_px=275
+stop_state=0
+Steering angle: 90
+Turn amt: -4.544137578967522
+Adjusted turn: 46810
+red_px=325
+stop_state=0
+Steering angle: 72
+Turn amt: 22.142808331383108
+Adjusted turn: 23405
+red_px=136
+stop_state=0
+Steering angle: 75
+Turn amt: 8.858682815159757
+Adjusted turn: 29784
+red_px=108
+stop_state=0
+Steering angle: 74
+Turn amt: 11.35752778692251
+Adjusted turn: 29784
+red_px=98
+stop_state=0
+Steering angle: 90
+Turn amt: -1.5946359576904587
+Adjusted turn: 46810
+red_px=137
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=30
+stop_state=0
+Steering angle: 75
+Turn amt: 11.018914424915655
+Adjusted turn: 29784
+red_px=75
+stop_state=0
+Steering angle: 90
+Turn amt: -0.4390462730450375
+Adjusted turn: 46810
+red_px=49
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=11
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=41
+stop_state=0
+Steering angle: 78
+Turn amt: 23.084625338904246
+Adjusted turn: 23405
+red_px=23
+stop_state=0
+Steering angle: 78
+Turn amt: 9.9
+Adjusted turn: 29784
+red_px=19
+stop_state=0
+Steering angle: 79
+Turn amt: 8.668926473118807
+Adjusted turn: 29784
+red_px=31
+stop_state=0
+Steering angle: 80
+Turn amt: 8.365254244166385
+Adjusted turn: 29784
+red_px=56
+stop_state=0
+Steering angle: 80
+Turn amt: 9.5
+Adjusted turn: 29784
+red_px=66
+stop_state=0
+Steering angle: 79
+Turn amt: 10.609206073940799
+Adjusted turn: 29784
+red_px=11
+stop_state=0
+Steering angle: 80
+Turn amt: 8.86361713587777
+Adjusted turn: 29784
+red_px=25
+stop_state=0
+Steering angle: 80
+Turn amt: 9.5
+Adjusted turn: 29784
+red_px=25
+stop_state=0
+Steering angle: 81
+Turn amt: 8.66019525291354
+Adjusted turn: 29784
+red_px=17
+stop_state=0
+Steering angle: 82
+Turn amt: 8.543013405751392
+Adjusted turn: 29784
+red_px=35
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=20
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=19
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=25
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=66
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=61
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=75
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=52
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=57
+stop_state=0
+Steering angle: 83
+Turn amt: 8.253643543453304
+Adjusted turn: 29784
+red_px=16
+stop_state=0
+Steering angle: 84
+Turn amt: 8.076594406997568
+Adjusted turn: 29784
+red_px=31
+stop_state=0
+Steering angle: 83
+Turn amt: 9.471026520721015
+Adjusted turn: 29784
+red_px=47
+stop_state=0
+Steering angle: 83
+Turn amt: 8.9
+Adjusted turn: 29784
+red_px=32
+stop_state=0
+Steering angle: 84
+Turn amt: 8.143164993893048
+Adjusted turn: 29784
+red_px=26
+stop_state=0
+Steering angle: 83
+Turn amt: 9.564317911842501
+Adjusted turn: 29784
+red_px=33
+stop_state=0
+Steering angle: 85
+Turn amt: 7.254419944466717
+Adjusted turn: 43690
+red_px=30
+stop_state=0
+Steering angle: 84
+Turn amt: 9.255382476397292
+Adjusted turn: 29784
+red_px=25
+stop_state=0
+Steering angle: 84
+Turn amt: 8.7
+Adjusted turn: 29784
+red_px=37
+stop_state=0
+Steering angle: 85
+Turn amt: 7.9384796942252205
+Adjusted turn: 32767
+red_px=23
+stop_state=0
+Steering angle: 84
+Turn amt: 9.323215702589858
+Adjusted turn: 29784
+red_px=11
+stop_state=0
+Steering angle: 85
+Turn amt: 7.854345001693297
+Adjusted turn: 32767
+red_px=8
+stop_state=0
+Steering angle: 85
+Turn amt: 8.5
+Adjusted turn: 29784
+red_px=17
+stop_state=0
+Steering angle: 84
+Turn amt: 9.284164902506964
+Adjusted turn: 29784
+red_px=14
+stop_state=0
+Steering angle: 85
+Turn amt: 7.970516442592944
+Adjusted turn: 32767
+red_px=19
+stop_state=0
+Steering angle: 85
+Turn amt: 8.5
+Adjusted turn: 29784
+red_px=9
+stop_state=0
+Steering angle: 87
+Turn amt: 6.207114054584634
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=11
+stop_state=0
+Steering angle: 87
+Turn amt: 8.1
+Adjusted turn: 29784
+red_px=12
+stop_state=0
+Steering angle: 89
+Turn amt: 5.764733078023347
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=8
+stop_state=0
+Steering angle: 89
+Turn amt: 7.7
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=4
+stop_state=0
+Steering angle: 88
+Turn amt: 8.909447299069807
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=34
+stop_state=0
+Steering angle: 89
+Turn amt: 6.7583379544918785
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=82
+stop_state=0
+Steering angle: 88
+Turn amt: 8.902414798527795
+Adjusted turn: 29784
+red_px=44
+stop_state=0
+Steering angle: 87
+Turn amt: 8.92700159709762
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=32
+stop_state=0
+Steering angle: 88
+Turn amt: 7.366655137554599
+Adjusted turn: 43690
+red_px=78
+stop_state=0
+Steering angle: 88
+Turn amt: 7.9
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=38
+stop_state=0
+Steering angle: 88
+Turn amt: 7.9
+Adjusted turn: 32767
+red_px=11
+stop_state=0
+Steering angle: 89
+Turn amt: 7.1318124060201304
+Adjusted turn: 43690
+skipping vertical lines (slope = infinity
+red_px=46
+stop_state=0
+Steering angle: 88
+Turn amt: 8.55542144576054
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=22
+stop_state=0
+Steering angle: 90
+Turn amt: 6.363124284252539
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+red_px=6
+stop_state=0
+Steering angle: 89
+Turn amt: 8.316709649909575
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=0
+stop_state=0
+Steering angle: 89
+Turn amt: 7.7
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=11
+stop_state=0
+Steering angle: 90
+Turn amt: 6.9298816077423915
+Adjusted turn: 43690
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=31
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=20
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=2
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=34
+stop_state=0
+Steering angle: 89
+Turn amt: 8.340659859321658
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=9
+stop_state=0
+Steering angle: 89
+Turn amt: 7.7
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=21
+stop_state=0
+Steering angle: 90
+Turn amt: 6.851710408358836
+Adjusted turn: 43690
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=42
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=11
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=4
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=2
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=6
+stop_state=0
+Steering angle: 89
+Turn amt: 8.328835898320078
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=0
+stop_state=0
+Steering angle: 89
+Turn amt: 7.7
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=5
+stop_state=0
+Steering angle: 90
+Turn amt: 7.465770312100877
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=3
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=8
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=2
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=1
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=5
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=0
+stop_state=0
+Steering angle: 53
+Turn amt: 51.93933267300739
+Adjusted turn: 23405
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1
+stop_state=0
+Steering angle: 45
+Turn amt: 24.279565282913882
+Adjusted turn: 23405
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=0
+stop_state=0
+Steering angle: 50
+Turn amt: 11.220796604635977
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=14
+stop_state=0
+Steering angle: 51
+Turn amt: 14.746011279734782
+Adjusted turn: 23405
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=0
+stop_state=0
+Steering angle: 98
+Turn amt: -22.584855070369628
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=0
+stop_state=0
+Steering angle: 90
+Turn amt: 12.346665125953317
+Adjusted turn: 23405
+skipping vertical lines (slope = infinity
+red_px=19
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=0
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=2
+stop_state=0
+Steering angle: 93
+Turn amt: 5.075807938763084
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=7
+stop_state=0
+Steering angle: 91
+Turn amt: 8.562365484601552
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=2
+stop_state=0
+Steering angle: 93
+Turn amt: 5.721700600484602
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=2
+stop_state=0
+Steering angle: 90
+Turn amt: 9.377752292551168
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=13
+stop_state=0
+Steering angle: 94
+Turn amt: 4.170282039490052
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+red_px=1
+stop_state=0
+Steering angle: 90
+Turn amt: 9.727724502396729
+Adjusted turn: 29784
+red_px=2
+stop_state=0
+Steering angle: 50
+Turn amt: 41.008725036300476
+Adjusted turn: 23405
+red_px=8
+stop_state=0
+Steering angle: 90
+Turn amt: -18.484799931852155
+Adjusted turn: 46810
+red_px=10
+stop_state=0
+Steering angle: 50
+Turn amt: 37.868577466384906
+Adjusted turn: 23405
+red_px=0
+stop_state=0
+Steering angle: 72
+Turn amt: -2.6776880580523805
+Adjusted turn: 46810
+red_px=3
+stop_state=0
+Steering angle: 47
+Turn amt: 30.314799400812028
+Adjusted turn: 23405
+red_px=2
+stop_state=0
+Steering angle: 50
+Turn amt: 13.57753590417405
+Adjusted turn: 23405
+red_px=7
+stop_state=0
+Steering angle: 51
+Turn amt: 14.652461056304325
+Adjusted turn: 23405
+red_px=5
+stop_state=0
+Steering angle: 54
+Turn amt: 13.025660565657372
+Adjusted turn: 23405
+red_px=0
+stop_state=0
+Steering angle: 54
+Turn amt: 14.7
+Adjusted turn: 23405
+red_px=4
+stop_state=0
+Steering angle: 53
+Turn amt: 15.463368143934561
+Adjusted turn: 23405
+red_px=6
+stop_state=0
+Steering angle: 55
+Turn amt: 13.256819657068334
+Adjusted turn: 23405
+red_px=2
+stop_state=0
+Steering angle: 55
+Turn amt: 14.5
+Adjusted turn: 23405
+red_px=7
+stop_state=0
+Steering angle: 54
+Turn amt: 15.290534948715601
+Adjusted turn: 23405
+red_px=2
+stop_state=0
+Steering angle: 57
+Turn amt: 13.995174546472416
+Adjusted turn: 23405
+red_px=5
+stop_state=0
+Steering angle: 56
+Turn amt: 14.878118013535307
+Adjusted turn: 23405
+red_px=10
+stop_state=0
+Steering angle: 58
+Turn amt: 12.734567544475087
+Adjusted turn: 23405
+red_px=7
+stop_state=0
+Steering angle: 58
+Turn amt: 13.9
+Adjusted turn: 23405
+red_px=23
+stop_state=0
+Steering angle: 65
+Turn amt: 5.063196595701566
+Adjusted turn: 46810
+red_px=66
+stop_state=0
+Steering angle: 64
+Turn amt: 13.795977005487327
+Adjusted turn: 23405
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=56
+stop_state=0
+Steering angle: 90
+Turn amt: -20.568904418104843
+Adjusted turn: 46810
+red_px=118
+stop_state=0
+Steering angle: 79
+Turn amt: 20.886166565644324
+Adjusted turn: 23405
+red_px=141
+stop_state=0
+Steering angle: 80
+Turn amt: 8.481285081061388
+Adjusted turn: 29784
+red_px=191
+stop_state=0
+Steering angle: 77
+Turn amt: 13.09678765361532
+Adjusted turn: 23405
+red_px=201
+stop_state=0
+Steering angle: 82
+Turn amt: 4.055616491076152
+Adjusted turn: 46810
+red_px=228
+stop_state=0
+Steering angle: 82
+Turn amt: 9.1
+Adjusted turn: 29784
+red_px=261
+stop_state=0
+Steering angle: 83
+Turn amt: 8.209158829245796
+Adjusted turn: 29784
+red_px=388
+stop_state=0
+Steering angle: 83
+Turn amt: 8.9
+Adjusted turn: 29784
+red_px=415
+stop_state=0
+Steering angle: 82
+Turn amt: 9.65280223002761
+Adjusted turn: 29784
+red_px=437
+stop_state=0
+Steering angle: 84
+Turn amt: 7.370964225735922
+Adjusted turn: 43690
+red_px=478
+stop_state=0
+Steering angle: 84
+Turn amt: 8.7
+Adjusted turn: 29784
+red_px=552
+stop_state=0
+Steering angle: 83
+Turn amt: 9.535211873390883
+Adjusted turn: 29784
+red_px=548
+stop_state=0
+Steering angle: 84
+Turn amt: 8.091004537369777
+Adjusted turn: 29784
+red_px=591
+stop_state=0
+Steering angle: 84
+Turn amt: 8.7
+Adjusted turn: 29784
+red_px=617
+stop_state=0
+Steering angle: 85
+Turn amt: 7.78401631928441
+Adjusted turn: 32767
+red_px=617
+stop_state=0
+Steering angle: 85
+Turn amt: 8.5
+Adjusted turn: 29784
+red_px=613
+stop_state=0
+Steering angle: 84
+Turn amt: 9.278644409188107
+Adjusted turn: 29784
+red_px=727
+stop_state=0
+Steering angle: 84
+Turn amt: 8.7
+Adjusted turn: 29784
+red_px=628
+stop_state=0
+Steering angle: 86
+Turn amt: 7.231822951153671
+Adjusted turn: 43690
+red_px=773
+stop_state=0
+Steering angle: 86
+Turn amt: 8.3
+Adjusted turn: 29784
+red_px=809
+stop_state=0
+Steering angle: 85
+Turn amt: 9.102102180560141
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=765
+stop_state=0
+Steering angle: 85
+Turn amt: 8.5
+Adjusted turn: 29784
+red_px=700
+stop_state=0
+Steering angle: 84
+Turn amt: 9.327833428135197
+Adjusted turn: 29784
+red_px=645
+stop_state=0
+Steering angle: 86
+Turn amt: 7.115854095791986
+Adjusted turn: 43690
+red_px=742
+stop_state=0
+Steering angle: 85
+Turn amt: 9.137931511745515
+Adjusted turn: 29784
+red_px=673
+stop_state=0
+Steering angle: 86
+Turn amt: 7.655089564401803
+Adjusted turn: 32767
+red_px=677
+stop_state=0
+Steering angle: 87
+Turn amt: 7.520231807532016
+Adjusted turn: 32767
+red_px=638
+stop_state=0
+Steering angle: 87
+Turn amt: 8.1
+Adjusted turn: 29784
+red_px=702
+stop_state=0
+Steering angle: 86
+Turn amt: 8.332932210808975
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+red_px=922
+stop_state=0
+Steering angle: 86
+Turn amt: 8.3
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1008
+stop_state=0
+Steering angle: 88
+Turn amt: 6.812462986491042
+Adjusted turn: 43690
+red_px=796
+stop_state=0
+Steering angle: 87
+Turn amt: 8.789229151261194
+Adjusted turn: 29784
+red_px=1290
+stop_state=0
+Steering angle: 89
+Turn amt: 5.848618847936438
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1035
+stop_state=0
+Steering angle: 90
+Turn amt: 6.511290368205176
+Adjusted turn: 46810
+red_px=1127
+stop_state=0
+Steering angle: 89
+Turn amt: 8.579521058536125
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1516
+stop_state=0
+Steering angle: 90
+Turn amt: 6.544708240331618
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1117
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1458
+stop_state=0
+Steering angle: 89
+Turn amt: 8.622118917017511
+Adjusted turn: 29784
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1539
+stop_state=0
+Steering angle: 90
+Turn amt: 6.780435756010945
+Adjusted turn: 46810
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1462
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1258
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+skipping vertical lines (slope = infinity
+red_px=1676
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+skipping vertical lines (slope = infinity
+red_px=1900
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=2149
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1719
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1562
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1387
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1248
+stop_state=0
+Steering angle: 72
+Turn amt: 20.818410503958297
+Adjusted turn: 23405
+red_px=1268
+stop_state=0
+Steering angle: 90
+Turn amt: -4.485913619152706
+Adjusted turn: 46810
+red_px=1256
+stop_state=0
+Steering angle: 74
+Turn amt: 19.509076219292087
+Adjusted turn: 23405
+red_px=1407
+stop_state=0
+Steering angle: 90
+Turn amt: -3.100041699573529
+Adjusted turn: 46810
+red_px=1602
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1344
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1570
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=933
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1515
+stop_state=0
+Steering angle: 72
+Turn amt: 22.53000545025132
+Adjusted turn: 23405
+red_px=1377
+stop_state=0
+Steering angle: 73
+Turn amt: 10.248417144366252
+Adjusted turn: 29784
+red_px=1630
+stop_state=0
+Steering angle: 90
+Turn amt: -2.2109543687138693
+Adjusted turn: 46810
+red_px=1202
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1726
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=2096
+stop_state=0
+Steering angle: 76
+Turn amt: 20.653293309707053
+Adjusted turn: 23405
+red_px=1530
+stop_state=0
+Steering angle: 90
+Turn amt: -0.9658894767953186
+Adjusted turn: 46810
+red_px=1017
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1500
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=1809
+stop_state=0
+Steering angle: 74
+Turn amt: 25.253133389716567
+Adjusted turn: 23405
+red_px=1472
+stop_state=0
+Steering angle: 74
+Turn amt: 10.7
+Adjusted turn: 29784
+red_px=1317
+stop_state=0
+Steering angle: 75
+Turn amt: 9.655650931051836
+Adjusted turn: 29784
+red_px=2334
+stop_state=0
+Steering angle: 75
+Turn amt: 10.5
+Adjusted turn: 29784
+red_px=1623
+stop_state=0
+Steering angle: 74
+Turn amt: 11.766100019063353
+Adjusted turn: 23405
+red_px=758
+stop_state=0
+Steering angle: 75
+Turn amt: 9.440471120205121
+Adjusted turn: 29784
+red_px=1463
+stop_state=0
+Steering angle: 74
+Turn amt: 11.75162571457226
+Adjusted turn: 23405
+red_px=962
+stop_state=0
+Steering angle: 75
+Turn amt: 9.457872165973042
+Adjusted turn: 29784
+red_px=873
+stop_state=0
+Steering angle: 75
+Turn amt: 10.5
+Adjusted turn: 29784
+red_px=1583
+stop_state=0
+Steering angle: 75
+Turn amt: 10.5
+Adjusted turn: 29784
+red_px=1719
+stop_state=0
+Steering angle: 75
+Turn amt: 10.5
+Adjusted turn: 29784
+red_px=2001
+stop_state=0
+Steering angle: 75
+Turn amt: 10.5
+Adjusted turn: 29784
+red_px=2155
+stop_state=0
+Steering angle: 76
+Turn amt: 9.654791945482796
+Adjusted turn: 29784
+red_px=1479
+stop_state=0
+Steering angle: 75
+Turn amt: 11.125460076499229
+Adjusted turn: 29784
+red_px=2102
+stop_state=0
+Steering angle: 76
+Turn amt: 9.751240767997908
+Adjusted turn: 29784
+red_px=2087
+stop_state=0
+Steering angle: 75
+Turn amt: 11.154511180812385
+Adjusted turn: 29784
+red_px=1295
+stop_state=0
+Steering angle: 76
+Turn amt: 9.66260168532069
+Adjusted turn: 29784
+red_px=1538
+stop_state=0
+Steering angle: 76
+Turn amt: 10.3
+Adjusted turn: 29784
+red_px=1931
+stop_state=0
+Steering angle: 76
+Turn amt: 10.3
+Adjusted turn: 29784
+red_px=1333
+stop_state=0
+Steering angle: 76
+Turn amt: 10.3
+Adjusted turn: 29784
+red_px=1748
+stop_state=0
+Steering angle: 77
+Turn amt: 9.471135816722017
+Adjusted turn: 29784
+red_px=1001
+stop_state=0
+Steering angle: 76
+Turn amt: 10.924050229873087
+Adjusted turn: 29784
+red_px=983
+stop_state=0
+Steering angle: 76
+Turn amt: 10.3
+Adjusted turn: 29784
+red_px=1673
+stop_state=0
+Steering angle: 76
+Turn amt: 10.3
+Adjusted turn: 29784
+red_px=459
+stop_state=0
+Steering angle: 77
+Turn amt: 9.656289776574136
+Adjusted turn: 29784
+red_px=610
+stop_state=0
+Steering angle: 76
+Turn amt: 10.97909104892048
+Adjusted turn: 29784
+red_px=1074
+stop_state=0
+Steering angle: 78
+Turn amt: 8.447074961895524
+Adjusted turn: 29784
+red_px=1268
+stop_state=0
+Steering angle: 77
+Turn amt: 10.752165408506768
+Adjusted turn: 29784
+red_px=928
+stop_state=0
+Steering angle: 77
+Turn amt: 10.1
+Adjusted turn: 29784
+red_px=1107
+stop_state=0
+Steering angle: 77
+Turn amt: 10.1
+Adjusted turn: 29784
+red_px=1445
+stop_state=0
+Steering angle: 78
+Turn amt: 9.270437314721002
+Adjusted turn: 29784
+red_px=1241
+stop_state=0
+Steering angle: 78
+Turn amt: 9.9
+Adjusted turn: 29784
+red_px=776
+stop_state=0
+Steering angle: 77
+Turn amt: 10.6125537231995
+Adjusted turn: 29784
+red_px=613
+stop_state=0
+Steering angle: 79
+Turn amt: 7.7021653547995275
+Adjusted turn: 32767
+red_px=381
+stop_state=0
+Steering angle: 77
+Turn amt: 12.334161983647162
+Adjusted turn: 23405
+red_px=607
+stop_state=0
+Steering angle: 80
+Turn amt: 6.271294262547469
+Adjusted turn: 46810
+red_px=172
+stop_state=0
+Steering angle: 90
+Turn amt: -3.701239150754443
+Adjusted turn: 46810
+red_px=470
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=308
+stop_state=0
+Steering angle: 79
+Turn amt: 21.146910223170536
+Adjusted turn: 23405
+red_px=243
+stop_state=0
+Steering angle: 90
+Turn amt: -3.2768576200320023
+Adjusted turn: 46810
+red_px=30
+stop_state=0
+Steering angle: 78
+Turn amt: 16.755725017196642
+Adjusted turn: 23405
+red_px=289
+stop_state=0
+Steering angle: 90
+Turn amt: -0.042355691422407915
+Adjusted turn: 46810
+red_px=154
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=225
+stop_state=0
+Steering angle: 79
+Turn amt: 16.618543333358325
+Adjusted turn: 23405
+red_px=187
+stop_state=0
+Steering angle: 90
+Turn amt: 0.627932377583317
+Adjusted turn: 46810
+red_px=53
+stop_state=0
+Steering angle: 82
+Turn amt: 13.802793552908199
+Adjusted turn: 23405
+red_px=56
+stop_state=0
+Steering angle: 90
+Turn amt: 2.290776467665939
+Adjusted turn: 46810
+red_px=31
+stop_state=0
+Steering angle: 81
+Turn amt: 15.363810449379546
+Adjusted turn: 23405
+red_px=47
+stop_state=0
+Steering angle: 90
+Turn amt: 2.4380156356858365
+Adjusted turn: 46810
+red_px=27
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=33
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=66
+stop_state=0
+Steering angle: 80
+Turn amt: 15.15559720611634
+Adjusted turn: 23405
+red_px=49
+stop_state=0
+Steering angle: 90
+Turn amt: 0.36877040261153304
+Adjusted turn: 46810
+red_px=92
+stop_state=0
+Steering angle: 78
+Turn amt: 16.78230159164251
+Adjusted turn: 23405
+red_px=149
+stop_state=0
+Steering angle: 82
+Turn amt: 6.570205749526903
+Adjusted turn: 46810
+red_px=63
+stop_state=0
+Steering angle: 90
+Turn amt: 3.108748364131287
+Adjusted turn: 46810
+red_px=87
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=82
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=97
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=125
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=139
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=157
+stop_state=0
+Steering angle: 90
+Turn amt: 7.5
+Adjusted turn: 32767
+red_px=165
+stop_state=0
+Steering angle: 81
+Turn amt: 15.043654912701133
+Adjusted turn: 23405
+red_px=186
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=210
+stop_state=0
+Steering angle: 80
+Turn amt: 9.536794770854232
+Adjusted turn: 29784
+red_px=193
+stop_state=0
+Steering angle: 81
+Turn amt: 8.374452413001745
+Adjusted turn: 29784
+red_px=184
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=220
+stop_state=0
+Steering angle: 81
+Turn amt: 9.3
+Adjusted turn: 29784
+red_px=4356
+stop_state=0
+Stopping! 1
+Shutting down PWM...
