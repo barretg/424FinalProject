@@ -1,3 +1,4 @@
+
 '''
 
 ELEC 424 Final Project - Autonomous Lanekeeping RC Car
@@ -309,14 +310,12 @@ num_stopped = 0
 
 pwm = PWMControl()
 pwm.set_throttle(int(65535 / 2))
+throttle_pwm_data.append(int(65535/2))
 flag = True
+skip_frames = 0
 
 while not done:
     ret,frame = video.read()
-
-    if flag:
-        pwm.set_throttle(int(65535 / 1.8))
-        flag = False
 
 
     # Detect lanes
@@ -330,7 +329,11 @@ while not done:
 
     if show_camera:
         cv2.imshow("heading line",heading_image)
-
+        
+    if flag:
+        pwm.set_throttle(int(65535 / 1.8))
+        throttle_pwm_data.append(int(65535/1.8))
+        flag = False
     # Stop sign detection (x2)
     red_px = check_for_stop_sign(frame)
     print(f"{red_px=}")
@@ -338,10 +341,23 @@ while not done:
 
     # TODO: adjust values of picture detection
     # Need this to stop twice
-    if red_px > 20000:
-        num_stopped += 1
+    if num_stopped == 1 and skip_frames == 0 and red_px > 4000:
         print(f'Stopping! {num_stopped}')
         break
+    if num_stopped == 0 and red_px > 4000:
+        num_stopped = 1
+        print(f'First stop! {num_stopped}')
+        pwm.set_throttle(int(65535 / 2))
+        throttle_pwm_data.append(int(65535/2))
+        time.sleep(3)
+        skip_frames = 200
+        pwm.set_throttle(int(65535 / 1.8))
+        throttle_pwm_data.append(int(65535/1.8))
+        continue
+    
+    if skip_frames > 0:
+        skip_frames -= 1
+
 
     speed: int
     try:
@@ -355,14 +371,16 @@ while not done:
         pwm.set_throttle(int(65535 / 2))
 
     # TODO: tweak this to desired speed:
-    speed_threshold = 250000
+    speed_threshold = 300000
 
     if speed > speed_threshold:
         pwm.set_throttle(int(65535 / 1.9))
+        throttle_pwm_data.append(int(65535 / 1.9))
 #    elif speed < speed_threshold - 60000:
 #        pwm.set_throttle(int(65535 / 1.8))
     else:
         pwm.set_throttle(int(65535 / 1.8))
+        throttle_pwm_data.append(int(65535 / 1.8))
 
     ''' CALCULATE DERIVATIVE FROM PD ALGORITHM '''
     now = time.time()
@@ -388,25 +406,33 @@ while not done:
 #max((7-turn_amt)/7.0, 1) *
     # lower voltage is more left
     # higher voltage is more right
-    """
-    if turn_amt < 6:
-        turn_amt = int(65535 / 1)
-    elif turn_amt < 7:
+    if turn_amt < 6.8:
+        turn_amt = int(65535 / 1.4) # 1.3
+    elif turn_amt < 7.4:
         # right
         turn_amt = int(65535 / 1.5)
     elif turn_amt < 8:
         # neutral
         turn_amt = int(65535 / 2)
-    elif turn_amt < 9:
-        turn_amt = int(65525 / 2.5)
+    elif turn_amt < 11.5:
+        turn_amt = int(65525 / 2.2)
     else:
         # left
-        turn_amt = int(65535 / 3)
+        turn_amt = int(65535 / 2.8)
     turn_amt = int(turn_amt)
+    steering_pwm_data.append(turn_amt)
+    # 7.6, 9
     """
+
+    if turn_amt > 9
+        turn_amt = 9
+    if turn_amt < 6:
+        turn_amt = 6
+
     turn_amt = turn_amt *-1 +9
     turn_amt = turn_amt * (2/3) + 1 #value between 1 and 3
-    turn_amt = 65525 / turn_amt #actual output value
+    turn_amt = int(65525 / turn_amt) #actual output value
+    """
 
     print(f"Adjusted turn: {turn_amt}")
     steering_pwm_data.append(pwm.set_steering(turn_amt))
